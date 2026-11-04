@@ -1,0 +1,14 @@
+"CFBundleDisplayName" = "NotchFlow";
+"NSAppleEventsUsageDescription" = "NotchFlow, Spotify ve Apple Music'i kontrol etmek için AppleScript kullanır.";
+"NSBluetoothAlwaysUsageDescription" = "NotchFlow, ses aygıtları bağlandığında bunları algılamak ve HUD'da pil durumlarını göstermek için Bluetooth erişimine ihtiyaç duyar.";
+"NSCalendarsFullAccessUsageDescription" = "Takvim etkinliklerini çentik içinde gösterir.";
+"NSCalendarsUsageDescription" = "Takvim modu için gereklidir.";
+"NSCameraUsageDescription" = "Ayna modu için kameranıza ihtiyaç duyuyoruz.";
+"NSDesktopFolderUsageDescription" = "NotchFlow, ekran görüntülerini masaüstünüze kaydetmek için erişime ihtiyaç duyar.";
+"NSDocumentsFolderUsageDescription" = "NotchFlow, rafa sürüklenen dosyaları kaydetmek ve okumak için erişime ihtiyaç duyar.";
+"NSDownloadsFolderUsageDescription" = "NotchFlow, İndirilenler klasöründeki dosyaları okumak için erişime ihtiyaç duyar.";
+"NSLocationUsageDescription" = "NotchFlow, doğru kilit ekranı hava durumunu göstermek için konumunuzu kullanır.";
+"NSLocationWhenInUseUsageDescription" = "NotchFlow, doğru kilit ekranı hava durumunu göstermek için konumunuzu kullanır.";
+"NSRemindersUsageDescription" = "NotchFlow, anımsatıcılarınızı göstermek için Anımsatıcılar erişimine ihtiyaç duyar.";
+"NSAudioCaptureUsageDescription" = "NotchFlow, gerçek zamanlı müzik dalga biçimi görselleştiricisini göstermek için ses yakalama iznine ihtiyaç duyar.";
+"NSScreenCaptureUsageDescription" = "NotchFlow, yapay zeka asistanı özelliği için ekran görüntüleri yakalamak üzere ekran kaydı iznine ihtiyaç duyar.";

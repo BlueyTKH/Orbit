@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Orbit</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.kayhsen.NotchFlow.orbit</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>orbit</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Orbit uses Apple Music to fetch animated artwork for the lock screen wallpaper.</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>Orbit needs audio capture permission to show the real-time music waveform and to set the volume of individual apps. Audio is only processed live and is never recorded or saved.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Orbit reads battery levels from Bluetooth devices you choose to track. It scans briefly and does not record audio or send device data to a server.</string>
+	<key>OrbitReleaseName</key>
+	<string>Public</string>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict/>
+	</array>
+</dict>
+</plist>

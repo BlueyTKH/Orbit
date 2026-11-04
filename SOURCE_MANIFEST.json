@@ -1,0 +1,2602 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 125,
+    "sha256": "d690784193541d909d40dd928a16ce063394192f7fa82874ee5b4c36bb8b71d6"
+  },
+  {
+    "path": ".github/assets/orbit-icon.png",
+    "bytes": 794478,
+    "sha256": "c37587fb2431f7d31b5ece955b679acc00785b883daa1d4169c7ba2bc8244ccf"
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "bytes": 917,
+    "sha256": "33d8731d32057c253a076163af136dc104be1c136e7beaf3b72b82886cd306d1"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 1999,
+    "sha256": "c6a62d500b5a53bc748e1f4ed86b0d3ed832f55050367dd7a603dc54c6dc8d32"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 1399,
+    "sha256": "ae2f9311e52e733067c8371a840116ee7b7349146dc9686f492ef6a196e3026f"
+  },
+  {
+    "path": "CODE_OF_CONDUCT.md",
+    "bytes": 4886,
+    "sha256": "f626163fd17fbde8b229473e4f17847d3da93fc6332b7878dc0f5954bce39bec"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 3497,
+    "sha256": "26030e57c51d177047d4135ac6698b22db55af89ac2f79858e90ec2c48c55d15"
+  },
+  {
+    "path": "COPYRIGHT_ASSETS",
+    "bytes": 401,
+    "sha256": "ab9fff8dbf60a1190d4ebdd0d151916be8d2b09019f26eb25687cba9ba143f8c"
+  },
+  {
+    "path": "Contents/Helpers/NowPlayingTestClient",
+    "bytes": 77848,
+    "sha256": "4ef9a27dab6d45ad50510d90794f75caaaf0fbc031229b373053dcbaf4d1795d"
+  },
+  {
+    "path": "DynamicIsland/AirPodsArtworkCredits.txt",
+    "bytes": 902,
+    "sha256": "d07cae36b0050839948f0c57bbf92eafbc75f9bd205fcaa72213c00478b4bd00"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AccentColor.colorset/Contents.json",
+    "bytes": 123,
+    "sha256": "9af65086fa30b49252fae1a1225731691de794f7775af74d71befeb507d12b7c"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseClassic.imageset/Contents.json",
+    "bytes": 97,
+    "sha256": "47b2621adce1ed3736f157cf1a47254183ebc2fddd4ea3350ccd63d38fa57e4e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseClassic.imageset/frames.png",
+    "bytes": 1168999,
+    "sha256": "24fdbc3a53e2dd93c3129f5119d0a219115308b09dffc7a6135bfbcedc13c8b4"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseFourth.imageset/Contents.json",
+    "bytes": 97,
+    "sha256": "47b2621adce1ed3736f157cf1a47254183ebc2fddd4ea3350ccd63d38fa57e4e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseFourth.imageset/frames.png",
+    "bytes": 1160155,
+    "sha256": "d5a61755979c49021d369d74a022f8c356f4274547829dae3604122ba3911c21"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCasePro.imageset/Contents.json",
+    "bytes": 97,
+    "sha256": "47b2621adce1ed3736f157cf1a47254183ebc2fddd4ea3350ccd63d38fa57e4e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCasePro.imageset/frames.png",
+    "bytes": 1215990,
+    "sha256": "b9944187ae9f8dfed381f84543bb61a65a7ea8686a6a8623640019a6fc024356"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseProThird.imageset/Contents.json",
+    "bytes": 97,
+    "sha256": "47b2621adce1ed3736f157cf1a47254183ebc2fddd4ea3350ccd63d38fa57e4e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseProThird.imageset/frames.png",
+    "bytes": 1224790,
+    "sha256": "609152d238d58237d81d2585ffefd5c7ab56008f6946190b908b0f6e94dddc2b"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseThird.imageset/Contents.json",
+    "bytes": 97,
+    "sha256": "47b2621adce1ed3736f157cf1a47254183ebc2fddd4ea3350ccd63d38fa57e4e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AirPodsCaseThird.imageset/frames.png",
+    "bytes": 1274540,
+    "sha256": "b99a3bc2ab68571174bcfd991e53259f337fac6a8819a91f5843ed40821e659a"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AmazonMusicLogo.imageset/Contents.json",
+    "bytes": 310,
+    "sha256": "11ec10dd993d25cbcd16b2f19543b949f1e705b91026f6ffe4fc62d90af6c207"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/AmazonMusicLogo.imageset/amazon-music.png",
+    "bytes": 27669,
+    "sha256": "9a6cdd2eaa44353c9ed17b6cce1f1283537d444f9aae7b8412bfc82c7ab8673f"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/CiderLogo.imageset/Contents.json",
+    "bytes": 303,
+    "sha256": "aeab2ae6b69ea601297b188522e930146bc01ace4da04bfb33120f299e159aa8"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/CiderLogo.imageset/cider.png",
+    "bytes": 112216,
+    "sha256": "b256ff87182925e2a41f4053fc75d420fff65a15654a941a0ff0c9425ef2018f"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/Contents.json",
+    "bytes": 63,
+    "sha256": "0fd49ba3c3585c709678e0046a821c3c60685ec7063720d30d3a3448be3a208b"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/Github.imageset/Contents.json",
+    "bytes": 407,
+    "sha256": "93d65ac371622e68f17061115226252ce17842b887013e52c62defba127a5d9f"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/Github.imageset/GitHub Mark White 1.svg",
+    "bytes": 960,
+    "sha256": "fab00c2d598c56cb4838603981b66e3490ebe27ea56fb188120a7e6d4ca46970"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/Github.imageset/GitHub Mark White 2.svg",
+    "bytes": 960,
+    "sha256": "fab00c2d598c56cb4838603981b66e3490ebe27ea56fb188120a7e6d4ca46970"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/Github.imageset/GitHub Mark White.svg",
+    "bytes": 960,
+    "sha256": "fab00c2d598c56cb4838603981b66e3490ebe27ea56fb188120a7e6d4ca46970"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/LinkedIn.imageset/Contents.json",
+    "bytes": 320,
+    "sha256": "30e8881406db8a96a115d33e1cbf7813282fc40660977199fbba12067bcf2c98"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/LinkedIn.imageset/LinkedIn_logo_initials.png",
+    "bytes": 23260,
+    "sha256": "89e9e665c6a031de2adc50026a6169848815d32c5dde450226b1d180d3f7d0ab"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/LocalSend.imageset/Contents.json",
+    "bytes": 307,
+    "sha256": "1e31f69a4a05a9ee09546fd103f88ed857bed4a2c4912501d50dcb61317f1e98"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/LocalSend.imageset/localsend.png",
+    "bytes": 66865,
+    "sha256": "d0d42e3923f3c0343d7a390eab24a1ebefe180b2871b0d4631d851b95e1d2991"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/Contents.json",
+    "bytes": 1301,
+    "sha256": "fd62c72482a200be31beefeacd22582182828322e523947c8d778ac34d4f1c1b"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_128x128.png",
+    "bytes": 19231,
+    "sha256": "c5432065e048e917919d5a051299d0cb6a93eecfb200e54edd7a4772fd8e1dc5"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_128x128@2x.png",
+    "bytes": 62662,
+    "sha256": "9310db4914fa78db85e5cc937b57f6d6a74924ad10858bdbd3ecc6980a7de419"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_16x16.png",
+    "bytes": 853,
+    "sha256": "10ff889c49bd00bfa7efcf79612e14e1edbb9de7a65c86dfb3a549f124dcbb39"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_16x16@2x.png",
+    "bytes": 2267,
+    "sha256": "3dbde4314b25f9205b57b018f86ce0d0ab4541c20ed84cad89d9609be4093acc"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_256x256.png",
+    "bytes": 62662,
+    "sha256": "9310db4914fa78db85e5cc937b57f6d6a74924ad10858bdbd3ecc6980a7de419"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_256x256@2x.png",
+    "bytes": 219095,
+    "sha256": "ccec5199b40b40dcd2f312d97fc8b18e4a9ded053f84c75ffe82ba116ee0978f"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_32x32.png",
+    "bytes": 2267,
+    "sha256": "3dbde4314b25f9205b57b018f86ce0d0ab4541c20ed84cad89d9609be4093acc"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_32x32@2x.png",
+    "bytes": 6426,
+    "sha256": "e56076dd16d0243792d1c0e323b57cd6967bbc5163c2d28977dfef9d4effb2e8"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_512x512.png",
+    "bytes": 219095,
+    "sha256": "ccec5199b40b40dcd2f312d97fc8b18e4a9ded053f84c75ffe82ba116ee0978f"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/OrbitIcon.appiconset/icon_512x512@2x.png",
+    "bytes": 794478,
+    "sha256": "c37587fb2431f7d31b5ece955b679acc00785b883daa1d4169c7ba2bc8244ccf"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/TidalLogo.imageset/Contents.json",
+    "bytes": 275,
+    "sha256": "3776651f74f5bed26e3007e9f8b19265bd2a01a70197af59736f728f2e5d5623"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/TidalLogo.imageset/tidal-logo.svg",
+    "bytes": 173,
+    "sha256": "0d47d28c79fe0caf95bb6a70df90432d0b4c0acad2b5b39ae458df6c4a038702"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/YouTubeMusicLogo.imageset/Contents.json",
+    "bytes": 311,
+    "sha256": "69bfd80556bbc85aff1be1b18768a8e38f222927db265b92883b3e84f51c8549"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/YouTubeMusicLogo.imageset/youtube-music.png",
+    "bytes": 2032,
+    "sha256": "11e1e36b0a673c2d1182974250946979593c8a756a44851d0f4529728c1a4709"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/bolt.imageset/Contents.json",
+    "bytes": 154,
+    "sha256": "888dd9b0c0137894ce91b2abed139513d48b83ffc6eb21e9dd92713914c4a1fb"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/bolt.imageset/bolt.png",
+    "bytes": 903,
+    "sha256": "dbd6b83d8983f171df0a8952bef1a8b5675388cec4ca098b08673d64c4cede5a"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/chrome.imageset/Contents.json",
+    "bytes": 449,
+    "sha256": "a72b3a569c21a14f49ca2770d16bdaf5a9b7a381becafce6f5ca26f2d751ef3e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/chrome.imageset/Google Chrome macOS BigSur Icon 1.png",
+    "bytes": 5794,
+    "sha256": "b10883e0b7d1db05c309e4b21f9dfe393bc73dc82ad0f13c910492c089e4fc77"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/chrome.imageset/Google Chrome macOS BigSur Icon 2.png",
+    "bytes": 5794,
+    "sha256": "b10883e0b7d1db05c309e4b21f9dfe393bc73dc82ad0f13c910492c089e4fc77"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/chrome.imageset/Google Chrome macOS BigSur Icon.png",
+    "bytes": 5794,
+    "sha256": "b10883e0b7d1db05c309e4b21f9dfe393bc73dc82ad0f13c910492c089e4fc77"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/defaultmusic.imageset/Contents.json",
+    "bytes": 271,
+    "sha256": "fe03d3965051f713a0c5e9f79b597f40068d9a9271934ac4c359c40687bda283"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/desktop.imageset/Contents.json",
+    "bytes": 306,
+    "sha256": "fc1842b0505c9be45e3b9ad4a13f350ce4b73de68a884ba8799d01e972145a58"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/desktop.imageset/desktop.jpeg",
+    "bytes": 272068,
+    "sha256": "6c23a3dac4c3b8eb510a68a1e37db7cbc1836165ec27fe19f55ac163fd60c476"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/ebullioscopic.imageset/819b59197be07c800478c728143326f1.png",
+    "bytes": 5094,
+    "sha256": "2f3a062f6c6da041bdc75c4f7fe05f58589b47b893c2ca7cf877f3f08ca93b90"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/ebullioscopic.imageset/Contents.json",
+    "bytes": 182,
+    "sha256": "5da9f316e2a63e485838b9bc9788bae2d53943503963e10f3f4e66385d34d3c5"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/glassdesktop.imageset/6EDAFE63-F31B-44D9-A167-0D7EC8B02C66_1_201_a.jpeg",
+    "bytes": 293046,
+    "sha256": "3fc23a3a5898d18249a06b663de746f639d9528ff8c3ef28f870d47bb17a9afc"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/glassdesktop.imageset/Contents.json",
+    "bytes": 343,
+    "sha256": "2a5884af734740e1002b0af0fb3170ca88f0c54ff3f519139068c0cd71833f4a"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/logo.imageset/Contents.json",
+    "bytes": 149,
+    "sha256": "13b1c4fe4dbf54545921636ea396765855d1fe11b8997ecca13020c2963a6614"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/logo.imageset/Orbit.png",
+    "bytes": 794478,
+    "sha256": "c37587fb2431f7d31b5ece955b679acc00785b883daa1d4169c7ba2bc8244ccf"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/logo2.imageset/Contents.json",
+    "bytes": 154,
+    "sha256": "651ea03a99f3900d22c9a1619dac4b85fe4294dcb4ac9e441f900f3cabd96476"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/logo2.imageset/Orbit_1024.png",
+    "bytes": 794478,
+    "sha256": "c37587fb2431f7d31b5ece955b679acc00785b883daa1d4169c7ba2bc8244ccf"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/plug.imageset/Contents.json",
+    "bytes": 154,
+    "sha256": "afdcc756a3b3eda990cd69954ff272d2558cff5e23bc34d6314913016481b64e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/plug.imageset/plug.png",
+    "bytes": 899,
+    "sha256": "c6b285cc393913f567a4b7b7c784a925ede81e7453726cee6406be0724c0bb98"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/sparkle.imageset/Contents.json",
+    "bytes": 157,
+    "sha256": "ac6b95b1d04d29d2df42c6e9929f8f38ee3a66034363e37d94f46a49f61c8b49"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/sparkle.imageset/sparkle.svg",
+    "bytes": 973,
+    "sha256": "44b7f742a97d7a10dd12486b80bf50c15f981d375394a888f6dd1a0cd3119c99"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/spotlight.imageset/Contents.json",
+    "bytes": 159,
+    "sha256": "026d9874b9a825a6a3879bcc2569d0ce615e67bd235606b06c68638013046d3e"
+  },
+  {
+    "path": "DynamicIsland/Assets.xcassets/spotlight.imageset/spotlight.svg",
+    "bytes": 2317,
+    "sha256": "ac8bc2630d963180dbd17a96fe5bc5f152a9f760f36501a875a8bafb0711941a"
+  },
+  {
+    "path": "DynamicIsland/ContentView.swift",
+    "bytes": 142086,
+    "sha256": "8e45e16f865d2eed8bf923dcaabc349fb3c27eee57c6cf013b8dd147cd9fe5e1"
+  },
+  {
+    "path": "DynamicIsland/DynamicIsland-Bridging-Header.h",
+    "bytes": 549,
+    "sha256": "924f5a864349d133b6baa02af2b38216f763a88cf0f2ce7ce67d099dd06eeab3"
+  },
+  {
+    "path": "DynamicIsland/DynamicIsland.entitlements",
+    "bytes": 934,
+    "sha256": "10a97c24bd9e4655c1eb77bae1e975ce781900d359dc845924e78b1e762a6184"
+  },
+  {
+    "path": "DynamicIsland/DynamicIslandApp.swift",
+    "bytes": 79620,
+    "sha256": "8c64111b4756f19a38a8cc01cd125eb603468cf933925b1e8ba4429c1251aeb7"
+  },
+  {
+    "path": "DynamicIsland/DynamicIslandViewCoordinator.swift",
+    "bytes": 13629,
+    "sha256": "b3a88554ae0a78fbaab54a47360f4dc673f9a6f7aaeb8c497515713551fcb465"
+  },
+  {
+    "path": "DynamicIsland/Info.plist",
+    "bytes": 1273,
+    "sha256": "4808990c2dbdb8c548334c151d7534acc51d9851c4e9604f3e2bde5f8d812bd4"
+  },
+  {
+    "path": "DynamicIsland/Localizable.xcstrings",
+    "bytes": 2374726,
+    "sha256": "b31e82f22d0a7a907e21601e22b27fdd81f2aa1bb0ff858a19968294775ef784"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/AmazonMusicController.swift",
+    "bytes": 14230,
+    "sha256": "1f8e61e3a61285a07f2b958b8166e760ec7685732e60d12854bad96940887072"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/AppleMusicController.swift",
+    "bytes": 16967,
+    "sha256": "2946b2527c1fdb375f8cee1210dce596049ad52f824d47157a2c633ad0087226"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/CiderController.swift",
+    "bytes": 7498,
+    "sha256": "71d85c2f407665d28fc8ef8fa216de3e4ba708fa442f2e3fe2818f560a1bbb83"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/CiderTokenStore.swift",
+    "bytes": 4040,
+    "sha256": "be75e77b3230792878d06e049b4593077606f7bb231eff9549f37f9b41d1e458"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/MediaControllerProtocol.swift",
+    "bytes": 3208,
+    "sha256": "f07552275b81851999277bae766aa5cbf6f170f8c68c84eccc92eb59c7864f3c"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/NowPlayingController.swift",
+    "bytes": 26555,
+    "sha256": "3f1869128058f36fc3b7a084a6235b415043c661959c1c6d835ba2e37e5384b1"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/SpotifyController.swift",
+    "bytes": 32436,
+    "sha256": "0cd45636cb8954ccb512a493b595e1903046b7c2c30bee902ae10994bfec6ede"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/TidalController.swift",
+    "bytes": 16916,
+    "sha256": "0d5ccdc668b029e69d06eeb2d55e26a0db59ff88a55cd431ecb839012e572da6"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/YouTube Music Controller/YouTubeMusicAuthentication.swift",
+    "bytes": 2824,
+    "sha256": "668fbded47687c809e9fcd66e57ead640b3d90aa7e5c61e3309d07e555c4a5bb"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/YouTube Music Controller/YouTubeMusicController.swift",
+    "bytes": 22171,
+    "sha256": "dd4d546cd7a2da1c5efc8b1045c1a017c48ee2590246a2cd081017c3bea05412"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/YouTube Music Controller/YouTubeMusicModels.swift",
+    "bytes": 5806,
+    "sha256": "af9ad6594927de3f1c505d524a87964e80d09b70f334176d0d006064a4742106"
+  },
+  {
+    "path": "DynamicIsland/MediaControllers/YouTube Music Controller/YouTubeMusicNetworking.swift",
+    "bytes": 8897,
+    "sha256": "b8aec5de4e67d8883b452c83a40dc9aebee0dad537acb5264886dafcf486c84a"
+  },
+  {
+    "path": "DynamicIsland/OrbitDevelopment.entitlements",
+    "bytes": 946,
+    "sha256": "062c2561ed48e129af8e12749a00d601f088519a527b5e5639d35cc2729f2c32"
+  },
+  {
+    "path": "DynamicIsland/Preview Content/Preview Assets.xcassets/Contents.json",
+    "bytes": 63,
+    "sha256": "0fd49ba3c3585c709678e0046a821c3c60685ec7063720d30d3a3448be3a208b"
+  },
+  {
+    "path": "DynamicIsland/Providers/CalendarServiceProviding.swift",
+    "bytes": 12076,
+    "sha256": "ff0ec7edc1cbedae0961643b5ae4bbb22d012f5657a401264fb889045123d7b6"
+  },
+  {
+    "path": "DynamicIsland/Shortcuts/ShortcutConstants.swift",
+    "bytes": 1911,
+    "sha256": "ea90c08e5e2b5e682422065d839a0a4eac33b45ee44204699c60d1284c0e8b5a"
+  },
+  {
+    "path": "DynamicIsland/animations/HelloAnimation.swift",
+    "bytes": 7806,
+    "sha256": "14345f430f645702a29e7fe2804f49bed65d75f1508ed6d4103121c0c6a242b2"
+  },
+  {
+    "path": "DynamicIsland/animations/drop.swift",
+    "bytes": 1335,
+    "sha256": "36cf43cd662e317c637679dcb1ead05ab3fbf664f1ccdd22a4add5dd3aaead04"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioBridge.h",
+    "bytes": 1155,
+    "sha256": "32b6b535f5431217991486496332438b0ae09a0f2aa8f61329d3b1a42b8e09a1"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioBridge.mm",
+    "bytes": 1677,
+    "sha256": "6a241693761b59673d77f02fb64306a232361def4fc49eb82dce98011b873c60"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioProcessor.cpp",
+    "bytes": 4394,
+    "sha256": "926c17cc6a9ec8a1d093e67ef2c6f44ddbde60423566c74c9742fac01909fda2"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioProcessor.hpp",
+    "bytes": 2369,
+    "sha256": "777583e2a0a2e18c9dcf80b5949f2ba30ba8a4f396bc445c8b394a1b311ab200"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioTap.swift",
+    "bytes": 18138,
+    "sha256": "2136aaec66c8e312ab863a43aed71d50835772d481b1b5140439bd6f657ea9c5"
+  },
+  {
+    "path": "DynamicIsland/audio/AudioVisualizerView.swift",
+    "bytes": 1254,
+    "sha256": "676e0d33ceecbd88f802ab9cd8fe3b4d60ee45503b274580fe1f0ce05836b5bb"
+  },
+  {
+    "path": "DynamicIsland/audio/PerAppVolume/AppVolumeTap.swift",
+    "bytes": 12332,
+    "sha256": "e7b479ef5a3fa7682f5484ebb77f153af23e294f007166d8eb353cd21603b380"
+  },
+  {
+    "path": "DynamicIsland/audio/PerAppVolume/AudioProcessQuery.swift",
+    "bytes": 6587,
+    "sha256": "77b067911dfa45657795d084fd98ac3ba1351b049d3042d561b4d887fb08d67f"
+  },
+  {
+    "path": "DynamicIsland/audio/RealTimeAudioSpectrum.swift",
+    "bytes": 5649,
+    "sha256": "acca6d1cc1ba159c1077bb0f24ee17c1dac98603c88841986088f5b3c16f9992"
+  },
+  {
+    "path": "DynamicIsland/audio-feedback.m4a",
+    "bytes": 2624,
+    "sha256": "96e97d8349e7629523f8d08ecedba39e6a3856c9cb37a1dea5d9a5b266f6febb"
+  },
+  {
+    "path": "DynamicIsland/components/Audio/PerAppVolumePopover.swift",
+    "bytes": 6704,
+    "sha256": "3074b381492a370ea1e71c905984a6ed92c21d123846faf5a826c641b34644b8"
+  },
+  {
+    "path": "DynamicIsland/components/BottomRoundedRectangle.swift",
+    "bytes": 2076,
+    "sha256": "cce0b17158501a16d0336fb8794a80bfc7439f2f729dbb61a0d00ff05ee2c438"
+  },
+  {
+    "path": "DynamicIsland/components/Caffeinate/CaffeinatePopover.swift",
+    "bytes": 4129,
+    "sha256": "6a1602c14061c4f5427e18b52127029648cae8c791dc1d4f881b62912e4e722e"
+  },
+  {
+    "path": "DynamicIsland/components/Calendar/DynamicIslandCalendar.swift",
+    "bytes": 59868,
+    "sha256": "1d385e8d7a403f3128ecfdcdc53dc0e52d6696abf19cecffa55cd8b2ff6c398d"
+  },
+  {
+    "path": "DynamicIsland/components/Calendar/ReminderLiveActivity.swift",
+    "bytes": 9720,
+    "sha256": "ec29d34b76a78a5eb075b44cec99a7f05ffd213190933731a218ec4684f27806"
+  },
+  {
+    "path": "DynamicIsland/components/Clipboard/ClipboardDragging.swift",
+    "bytes": 5354,
+    "sha256": "97125705444fc6d8bff0d3a15a20bb57f89cb9c59ff1d036a0e4ec7b95304ed7"
+  },
+  {
+    "path": "DynamicIsland/components/Clipboard/ClipboardPanel.swift",
+    "bytes": 26587,
+    "sha256": "9606bb7d65dc451e0a4d8447f04e5dccf3f06a08a6c38904e074eaa1ebae65b3"
+  },
+  {
+    "path": "DynamicIsland/components/Clipboard/ClipboardPopover.swift",
+    "bytes": 11323,
+    "sha256": "2ef7d31489b875d190dc076d2f748f335062e4983b7ab4345bbbc3a6ffe0eb4a"
+  },
+  {
+    "path": "DynamicIsland/components/Clipboard/ClipboardShared.swift",
+    "bytes": 2830,
+    "sha256": "9c9f5a637213b65b060694378fd6a1014dc403d682690766318f768dc909185e"
+  },
+  {
+    "path": "DynamicIsland/components/Clipboard/ClipboardWindow.swift",
+    "bytes": 11130,
+    "sha256": "015fc41c4d49abbf7816daf0ac31defc6be0b22af2036eafe4bdf093a03cda16"
+  },
+  {
+    "path": "DynamicIsland/components/ColorCodedProgressBar.swift",
+    "bytes": 7605,
+    "sha256": "bf1cf3c27e355a45fc2ab4236e43d91f67ad35f57174023199fa7046e4f59394"
+  },
+  {
+    "path": "DynamicIsland/components/Downloads/DownloadLiveActivity.swift",
+    "bytes": 5418,
+    "sha256": "9bb28e51d4f2b932739ca160071113bcbd664028b39cb7614030d25ac89d20c3"
+  },
+  {
+    "path": "DynamicIsland/components/Downloads/SpinningCircleDownloadView.swift",
+    "bytes": 2078,
+    "sha256": "fcb61a0101d74fe6ed30515e6b97c6e8e51fd4cf76f47e8ed17073128f9a8f28"
+  },
+  {
+    "path": "DynamicIsland/components/DynamicIslandSystemTiles.swift",
+    "bytes": 3646,
+    "sha256": "16d328ec407da824ded76ef0f948d007da64c58a24aa976635f270fe5f7884de"
+  },
+  {
+    "path": "DynamicIsland/components/EmptyState.swift",
+    "bytes": 1460,
+    "sha256": "ae9dba6ccc5488f52ab6138ba2fc299b124b2730098a1fa50c296b3e32ade6a1"
+  },
+  {
+    "path": "DynamicIsland/components/Focus/DoNotDisturbLiveActivity.swift",
+    "bytes": 17626,
+    "sha256": "9209227ab08877ffee74323986c3dceea59f78d2aae2147e3ee2beac57b0efdb"
+  },
+  {
+    "path": "DynamicIsland/components/HoverButton.swift",
+    "bytes": 6456,
+    "sha256": "b6276bb2da641a72da888e0406184bf3eed3575183836c3a98d58ea299501491"
+  },
+  {
+    "path": "DynamicIsland/components/IdleAnimationView.swift",
+    "bytes": 3417,
+    "sha256": "8670af2bb6958f715cbbb563fc0eb7ab1ff849cef84727ea1b7ed5e9a2ecc50e"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/AccessoryConnectionActivityView.swift",
+    "bytes": 9329,
+    "sha256": "dd2d60ef1ce4a3e9178f9742c1204020c2da47f192ef5c64e4d5c2896929d3dc"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/DesktopSwitchLiveActivity.swift",
+    "bytes": 1384,
+    "sha256": "83eeb57dc0be0a459200f475803a11ab83871bacf8dd646c26f437ee711b2d63"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/DeviceBatteryRing.swift",
+    "bytes": 1526,
+    "sha256": "5e69e95e8dd3c73c0acbf3f928be2b4482624a2c9c6f448949f719648409877e"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/DynamicIslandBattery.swift",
+    "bytes": 46627,
+    "sha256": "dab5e75aa94f21debfb89eb2512661b8b1c209c5b7808e7933900b14c6649d80"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/InlineHUD.swift",
+    "bytes": 22968,
+    "sha256": "34ac52ae25039d4aad840e9facfa9aaf94ebc603e3101103fa9a13465c13faf4"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/LiveActivityModifier.swift",
+    "bytes": 1794,
+    "sha256": "6e077a6c4f79ab91dc95340a9f5111711bc4038bf0a41c2729f1d6530c49ff25"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/MarqueeTextView.swift",
+    "bytes": 10590,
+    "sha256": "298ac8c1c3d69c0763e4f27ae825feb4db882981865fe1af155f56c842c96936"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/PulsingModifier.swift",
+    "bytes": 1177,
+    "sha256": "21849856bffc811b2bbb554c833a1a2471779225cd73dbdc8d144c0261a5ddaa"
+  },
+  {
+    "path": "DynamicIsland/components/Live activities/SystemEventIndicatorModifier.swift",
+    "bytes": 16280,
+    "sha256": "4083bdd31a1f70749c083cd594912477b527fb8a37d84d4e257685d6456ffee6"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockIconAnimationView.swift",
+    "bytes": 6848,
+    "sha256": "dfaa031ac8a4e2b64a6ce036f744ea35a00dee41a4a19ca3f1a3ee370f7e274b"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenCalendarEventRow.swift",
+    "bytes": 2649,
+    "sha256": "059de1109ccfa85231424543fb0de3ba3a8132b318954684ffc635a963fa52b4"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenDynamicIslandReplica.swift",
+    "bytes": 731,
+    "sha256": "69a1b4b6aceaf13649272eda4058d0c25d20a37018e5e1a976e7321879281f95"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenLiveActivity.swift",
+    "bytes": 5936,
+    "sha256": "98e71e2882fff4d1437014993cfc3b980ac0053137e3ea6e25387058b8cb1a60"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenLiveActivityOverlay.swift",
+    "bytes": 3718,
+    "sha256": "4af6dc79ab8f82a1485bbbddbfaded990394d76e5bb6e67193e1277f4f460b22"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenMusicPanel.swift",
+    "bytes": 82486,
+    "sha256": "a52f72396270ad963866886e12ceba384ee92148dcc2c59d0024d764dd2a3ebb"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenReminderWidget.swift",
+    "bytes": 4483,
+    "sha256": "6953277ffe238d12b5d67054d5419983c442b278419076a8fda35f3c23a32e17"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenTimerWidget.swift",
+    "bytes": 11406,
+    "sha256": "e3cbd88b98c6116ea934c3716bf87e43774864ebe34f2682adf400e2edae5b3c"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenWeatherWidget.swift",
+    "bytes": 53853,
+    "sha256": "173256280d711f900f532958160b157d0c7c32a4d50499e116f3654184cbcd87"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LockScreenWidgetAppearance+Colors.swift",
+    "bytes": 1122,
+    "sha256": "782e58f12108f28e561c4aa2da57873de728cfa3f950bacf2eee0e2be048aecb"
+  },
+  {
+    "path": "DynamicIsland/components/LockScreen/LyricSweep.swift",
+    "bytes": 11828,
+    "sha256": "efbce24463d96f86f9e961e0ce30cd548338edb18bf0f6e30684be317d016e21"
+  },
+  {
+    "path": "DynamicIsland/components/Music/LiveStreamProgressIndicator.swift",
+    "bytes": 2565,
+    "sha256": "b4fcd254fb056a19a059429f849cec27fdc5951256947c774730f6af5eec8bf4"
+  },
+  {
+    "path": "DynamicIsland/components/Music/LottieAnimationView.swift",
+    "bytes": 1583,
+    "sha256": "0751fb13f3cae666143e6b419376c3e9dd12bbbbddd6bc4cf040a23e83565567"
+  },
+  {
+    "path": "DynamicIsland/components/Music/MusicControlOverlay.swift",
+    "bytes": 12168,
+    "sha256": "464e6724a7eb3be6f6cc6b843b68e86c719db2756f3f3db565d70a995a897554"
+  },
+  {
+    "path": "DynamicIsland/components/Music/MusicVisualizer.swift",
+    "bytes": 4789,
+    "sha256": "5e6c41f2ef01d3eb65a9f919af279daef26a6f50cb0e10d2a63b27819357c5ce"
+  },
+  {
+    "path": "DynamicIsland/components/Music/PinnedLyricsView.swift",
+    "bytes": 4489,
+    "sha256": "8bc182fdf0b98754dcb0758ae9d110e8c7f484d2e44342902af7282ce7f17000"
+  },
+  {
+    "path": "DynamicIsland/components/Music/RealTimeWaveformScrubberView.swift",
+    "bytes": 5819,
+    "sha256": "6012a0e3f3b8d7c868082670383f835f87876bc09bc589ba14f7b550707a60aa"
+  },
+  {
+    "path": "DynamicIsland/components/Music/SkipTrackGlyph.swift",
+    "bytes": 5389,
+    "sha256": "40e649ba51c272dd3f2d07645f2e5627f5774dd27287075f3583f820f74e1f83"
+  },
+  {
+    "path": "DynamicIsland/components/Music/SyncedLyricsList.swift",
+    "bytes": 13059,
+    "sha256": "fb39f8c9f5a05d3d081ef8f64d580f4bca50dd433210e18845c0fc07661bd4a5"
+  },
+  {
+    "path": "DynamicIsland/components/Music/VolumeCapsuleSlider.swift",
+    "bytes": 6664,
+    "sha256": "ddd2744a5ca8d23878910d61aed4695d7ec5cf6c2f904e5fb43cd503d19dd951"
+  },
+  {
+    "path": "DynamicIsland/components/Network/NetworkConnectivityHUD.swift",
+    "bytes": 7491,
+    "sha256": "4d5332a0202a934a14808df592a8be0ecef4af92b0bf17aae2d04680d3f2d2b6"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/ClipboardHistoryPopover.swift",
+    "bytes": 7339,
+    "sha256": "3af32f25e63eea1f3d200a3068bc3302366cbefa801f4329acd3b2b9a3288b99"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/DynamicIslandExtrasMenu.swift",
+    "bytes": 3400,
+    "sha256": "3697e450a69940d8ba2596f8b9f3cf43805df166a58471ab3b19ae27a9bc157c"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/DynamicIslandHeader.swift",
+    "bytes": 26712,
+    "sha256": "5a652b46443d323e256b43b0c59d3ee8e9f9e0e383312672b43e6d77795986ff"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/DynamicIslandPillShape.swift",
+    "bytes": 1695,
+    "sha256": "c62a43f7cb7ef192410fae5403dad1b529af307d6ba2f613a403d62524ec0ca4"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/DynamicIslandWindow.swift",
+    "bytes": 2028,
+    "sha256": "2047f3cd49d539593cc02340bbab8c25d7d974488ac8070d76b7559987a628da"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/LikeTrackControl.swift",
+    "bytes": 3803,
+    "sha256": "0f36cda2b977a7b50c6c40e0f7594c0fd9444ace1669ba9083a5a7cb59c6bd0e"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchClipboardView.swift",
+    "bytes": 11583,
+    "sha256": "68fec33d0fe06c7c971770a1972f83c00920641aab2e05e561b44b625f463f76"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchHomeView.swift",
+    "bytes": 62593,
+    "sha256": "0e6f25b0e4dad99ba3ba63fc448364e4918859be6c57a7f95f2202543cd2682c"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchLLMUsageView.swift",
+    "bytes": 15566,
+    "sha256": "269cbb4b8870694dee9f06ee742358b1fa039639ef21e827f7ac0eebee35a38e"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchNotesView.swift",
+    "bytes": 44190,
+    "sha256": "cc30478f515ab9d730f353c98d98db1f600b908b5f6ccb2568b2b32744989e0f"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchShape.swift",
+    "bytes": 3650,
+    "sha256": "89e73ea0157aebd71f1c46c751fd953a93c90c684ed3a106a213937f82ac2e11"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchShelfView.swift",
+    "bytes": 922,
+    "sha256": "32d07faeec6ecd181b206e32752c464a0c25cda336a85fe600bfb24ad1d48ce3"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchStatsView.swift",
+    "bytes": 29499,
+    "sha256": "effe43fa773d2f0ea52cec2ba0ded772d1bea9628f5c830640cb7564f159d4fb"
+  },
+  {
+    "path": "DynamicIsland/components/Notch/NotchTimerView.swift",
+    "bytes": 26299,
+    "sha256": "22f9e61bb56cec5a950d938f5338ab7ef14e10fe8883a7197bd346e846e4046b"
+  },
+  {
+    "path": "DynamicIsland/components/OSD/CircularHUDView.swift",
+    "bytes": 8123,
+    "sha256": "fe47c5f9c281b6028c675054160246c433fce13f77a25a3cca180fb5263fb87a"
+  },
+  {
+    "path": "DynamicIsland/components/OSD/CustomOSDView.swift",
+    "bytes": 7424,
+    "sha256": "7c05b0b731bc0a71afcd418ddb40424a6278ee18d485c82d7c147e913468fe15"
+  },
+  {
+    "path": "DynamicIsland/components/OSD/HUDNumericLabel.swift",
+    "bytes": 1954,
+    "sha256": "e39f6bece77b19031d7d85e63e33f9458111904e8f4a9a6dd7ae44e3359a3978"
+  },
+  {
+    "path": "DynamicIsland/components/OSD/VerticalHUDView.swift",
+    "bytes": 12085,
+    "sha256": "89c64a1d361058eae286163550d586f4058b5cf0c33dbc3c58168d087c4cc656"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/MusicControllerSelectionView.swift",
+    "bytes": 6202,
+    "sha256": "2a97bfeef86065fbcd01c0a12e00b36a54d653f9efd44f0aab006911609e6579"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/OnboardingFinishView.swift",
+    "bytes": 2969,
+    "sha256": "f410510894ab1a5a348a889abd79b3de8dae0cb91e2a75d45d6acc104664073f"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/OnboardingView.swift",
+    "bytes": 5980,
+    "sha256": "135baae9e42afef232b02e1fabce91c1ff295f4679918874ec5f01148812a30f"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/PermissionsRequestView.swift",
+    "bytes": 2541,
+    "sha256": "5c34ba4b2ba296bee7df3ef167dc80e90c8704af8a0898efc192b819099b2f41"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/ProOnboarding.swift",
+    "bytes": 5030,
+    "sha256": "b7163575c74a9c76af50ae92562532e600b94bf3d47a2f60c438e6070c9d5830"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/ProfileSelectionView.swift",
+    "bytes": 10245,
+    "sha256": "7c3f3a5fcf97f3687d7c2b1284948a7a8c22cac3ffa5c55039c9ffd6bc1af0cd"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/SparkleView.swift",
+    "bytes": 3060,
+    "sha256": "2e347a375138bc7acec81de439e0d7f84a74a43fcebc1b4dcf184dc838b4ba0b"
+  },
+  {
+    "path": "DynamicIsland/components/Onboarding/WelcomeView.swift",
+    "bytes": 4498,
+    "sha256": "fa3a24f6a396d711da22a9ccff287d10baf07f5de68f6c0fc584bc3f583206e5"
+  },
+  {
+    "path": "DynamicIsland/components/Privacy/PrivacyLiveActivity.swift",
+    "bytes": 6302,
+    "sha256": "defee175a9a1c1fc88d376acfd3cac09ebb18dbe87de933e4252d00adf844eed"
+  },
+  {
+    "path": "DynamicIsland/components/PrivacyIndicatorIcon.swift",
+    "bytes": 8925,
+    "sha256": "083bccdeee5e00928d96fb03409fd8c64f670723c1fb15c0827c75f99eb8f127"
+  },
+  {
+    "path": "DynamicIsland/components/ProgressIndicator.swift",
+    "bytes": 2162,
+    "sha256": "cb909a0d33ca765f7fe3d04f14e24887deac8da38f267491629acddae4fd320a"
+  },
+  {
+    "path": "DynamicIsland/components/Recording/RecordingLiveActivity.swift",
+    "bytes": 7478,
+    "sha256": "1c2c5f6d015a859e016bc35d2e1d5c636d21f4991a7e2113f91768047fd681cf"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/AccessoryConnectionSettings.swift",
+    "bytes": 3643,
+    "sha256": "aa4cb680d7c2cab54b5f22f313b8cb5d9d0d5a359b812ece2b60a479575c6079"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/AirPodsBatteryWarningSettings.swift",
+    "bytes": 5453,
+    "sha256": "77ad9cc1c1c8198d7219cf14614991ace11573a02d99791c96e208f71ec0de72"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/AnimationEditorView.swift",
+    "bytes": 24325,
+    "sha256": "7fdf260986b729e16dcf00d3237b3483932afea9670120918574d2714a1b3269"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/CiderFavoritingSettingsSection.swift",
+    "bytes": 2251,
+    "sha256": "6b1f56651945c6b19c8ee4b96d0c25f8f852653d0e2276c06d0f05739f27d9f5"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/EditPanelView.swift",
+    "bytes": 2307,
+    "sha256": "225fd2da1dfe98c547ef7c65942f69a8aba2e2e4b54fc4b0b954be6c8677eac2"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/IdleAnimationsSettingsSection.swift",
+    "bytes": 19222,
+    "sha256": "e81f65a112c13f9b4fc62c2927f40192cadd85cebb91abec842d647f39246046"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/ListItemPopover.swift",
+    "bytes": 1404,
+    "sha256": "1dfb48d8bf508eca90cddf1738bf415e0947d23ae49d6b349949ed028f2efcc2"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/LowBatteryWarningsSettings.swift",
+    "bytes": 4114,
+    "sha256": "05b7261201f7cb879a69ca1985f4e75b94cdba5a6999111ce5c456eff0455798"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/MediaSourceCapabilities.swift",
+    "bytes": 8033,
+    "sha256": "cddaddfa73ffb5c55661cd2e897fadb43064997483dc33cfa9fc0d7dfe5b5733"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/MusicSlotConfigurationView.swift",
+    "bytes": 15003,
+    "sha256": "f84e2d07e4e99197a5af524bcd43952cbe4cbd70a9540723b9be8e616e0984c9"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/NotchFlowUtilitiesSettings.swift",
+    "bytes": 2235,
+    "sha256": "deb83deca48dff56ecd0b1e915c8988b78ce2ca3925412bcbf2d2dee0f0a9e14"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/OrbitWidgetsSettings.swift",
+    "bytes": 7055,
+    "sha256": "beecdaf23849dffe5325f78828bb7fabe8440ab65041137ac6e258f35a6b58e9"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/SettingsView.swift",
+    "bytes": 407983,
+    "sha256": "7c941a8427bd17ced3609c82271ca4ec26a2988fc2fe3a052a022d880f16d77f"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/SettingsWindowController.swift",
+    "bytes": 5790,
+    "sha256": "d24a82b88568830a2b0b57cbd158fe558d821bcbea5a4776696e8325d7c66173"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/SpotifyAuthSettingsSection.swift",
+    "bytes": 5209,
+    "sha256": "268b3349a4c7f0bef0bdade6a5033440df8ed11c8a17021c7652f6df3f5c1b7a"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/SpotifyLikeButtonSettingsSection.swift",
+    "bytes": 4833,
+    "sha256": "aee1cb4c19a5b60e94996875c28d4254e7ac83f6d30899060751d7a3c526839a"
+  },
+  {
+    "path": "DynamicIsland/components/Settings/SpotifyLoginSheet.swift",
+    "bytes": 11060,
+    "sha256": "1f5ba5b596ade80553111f8e14564ccde5bfd29ff4fc6714bcb3b7d147a998f7"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/AirDrop.swift",
+    "bytes": 1707,
+    "sha256": "e4cd2ee6e8b19ceab73dfe038e3ef3eaa2fb0c1bc43e9ea264460dc5d84b9030"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/AirDropView.swift",
+    "bytes": 8409,
+    "sha256": "2dd48eeb1346899c12f93095d7b4ac330e6976b8b52c4c9f4c3f89d79a5d650d"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/DragDropView.swift",
+    "bytes": 2014,
+    "sha256": "1e64456a66618002860bbef9a2cace792e3b8861c6e95895e9c06d4ceea58959"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/DropItem.swift",
+    "bytes": 2100,
+    "sha256": "6a5ac9e022f8a51b04e59e33833cbb4773cbb5f8c007622f05916ec3f1db93fa"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/DropItemView.swift",
+    "bytes": 3343,
+    "sha256": "2d1054d88155e41e37a40b0d72b409354dd8aa088016076d1408b0b65b9a6e5c"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Ext+FileProvider.swift",
+    "bytes": 2519,
+    "sha256": "6753350ccede2ed5ac7d093a1b4e5fd5cae72a9dc3fac173c985f9e822145115"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Ext+NSAlert.swift",
+    "bytes": 1725,
+    "sha256": "a065894aa6956eb1b2402105cc2afeaa2257ec8f83a63007630168badbf1ddc0"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Ext+NSImage.swift",
+    "bytes": 1102,
+    "sha256": "04daba3cd9b6f81c5059d4ebf70096aa86ae09016a191af51b93e8b2398ba37c"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Ext+URL.swift",
+    "bytes": 1169,
+    "sha256": "58b1fa5d44ebe462e4a8aa076db345ffc9a1d53a6f27d7c244f2385cb6abaa26"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Models/Bookmark.swift",
+    "bytes": 5317,
+    "sha256": "7677ff7d2f3d5557e91b94a41f0d28d8450dc118954f54aa5255728d9b442da6"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Models/ShelfItem.swift",
+    "bytes": 12481,
+    "sha256": "f120157c4a11e0ba1a21f995a74a48e04d6a52576d559231105cde27ba2998ec"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ImageProcessingService.swift",
+    "bytes": 11977,
+    "sha256": "1f1590688d6cdd91c5d004443a906752fdac4b5ac53751be1dc7e808bbb90436"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/LocalSendService.swift",
+    "bytes": 42243,
+    "sha256": "4d8e779f4602334fa144872f63f84de14121c8826ced0c4e4e22ef12be0c6f3c"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/QuickLookService.swift",
+    "bytes": 5177,
+    "sha256": "82cfbb76e71751fa2a9935c6907d77560ace4f50de3ebaa89a04f27973aab3af"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/QuickShareService.swift",
+    "bytes": 12866,
+    "sha256": "ca2b199d0b539cb9764cf5c4a055978ce9d156f93e196a0e342fd06ea08c0812"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ShareServiceFinder.swift",
+    "bytes": 2617,
+    "sha256": "86b31feca10bd22f33c0b0ef9c0e2bfa9e88d9dd43ceeea40b960017e9ff2e8d"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ShelfActionService.swift",
+    "bytes": 2508,
+    "sha256": "e06216647e922847827024d767fa334d5a47a1577b8cc0bcb11728e3b0fc6412"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ShelfDropService.swift",
+    "bytes": 3702,
+    "sha256": "3c94a48c73efb45e3675a05136da4ac3b57fc792d1aba24a5f857aacc20df3d1"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ShelfItemHitRegistry.swift",
+    "bytes": 2710,
+    "sha256": "6c0715b235fc857c4293b1fa617a373a0c8323fc05eea85d803f5a87bc6eb793"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ShelfPersistenceService.swift",
+    "bytes": 3535,
+    "sha256": "6e88790f7095ea658db14533f7f1247c777af3f1ec53dd61c0fe573219e1d9f1"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/TemporaryFileStorageService.swift",
+    "bytes": 10086,
+    "sha256": "8c23efd28e8e8f4c23282d80cfb13da0563973e0667ed07cfcffa07f64a510bc"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Services/ThumbnailService.swift",
+    "bytes": 3833,
+    "sha256": "c50e6d03d5e578858691ab5ee23a320caa4ec2908a34348745c606448588438f"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/TrayDrop.swift",
+    "bytes": 2927,
+    "sha256": "219d068fd32db50da62a78c09f7cf842593254cbd17987964b2b3e31b4ad6fb5"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/ViewModels/ShelfItemViewModel.swift",
+    "bytes": 57967,
+    "sha256": "a11532f229fd0c7a9597baba280e2f1ef971eb1d7d51be0c95c2dbaa594ca37f"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/ViewModels/ShelfSelectionModel.swift",
+    "bytes": 7396,
+    "sha256": "7bdd3169e0d166a4db98b79fe1da28060847910bbf18ff4286053898b011c22e"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/ViewModels/ShelfStateViewModel.swift",
+    "bytes": 13279,
+    "sha256": "101ea23f136c59ceae5dc81ea6295b1359cf1dba4a1dc101c5d19e7a873374cd"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/DragPreviewView.swift",
+    "bytes": 1783,
+    "sha256": "bbfbd97a96858bcc76d5b23446f1b8e650a4a7a09a7ac61c133b50840c422798"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/FileShareView.swift",
+    "bytes": 15142,
+    "sha256": "adb4e49ae9247b990c12699ad36433cd52e426a697427d342c1f8c14fc788a7a"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/LocalSendLiveActivity.swift",
+    "bytes": 6153,
+    "sha256": "d390214416b0c83ad9f1720df636f60a7a1749f08e2806651b8f4b67f705b412"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/ShelfInlineLiveActivity.swift",
+    "bytes": 2239,
+    "sha256": "30f73cfa9935487970e63ed21f9902fc6a676c7db3bab4c31bfd7ace9ce24f3d"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/ShelfItemView.swift",
+    "bytes": 21567,
+    "sha256": "b312b4e71bfbb8895aee2cfa35de34c0abdca289305e00926bc67e9427d51502"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/ShelfMarqueeSelectionView.swift",
+    "bytes": 13796,
+    "sha256": "c1e8821404de5aebaabe280afdded480858e3c823d59ca6109d1c38214a539ad"
+  },
+  {
+    "path": "DynamicIsland/components/Shelf/Views/ShelfView.swift",
+    "bytes": 8122,
+    "sha256": "74b158c59c97c3da6e02bcbf9a59e5569caa92bfc9050db0dd52072d3deab071"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/BatteryHistoryWindow.swift",
+    "bytes": 8537,
+    "sha256": "b1af81cf97f7ed40bf37eedccc7ee636afb280af9ccc3f7251feb75e2afc31c1"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/BatteryMenuDashboard.swift",
+    "bytes": 20016,
+    "sha256": "c253faa31712cca24e5b2fc4f2f51f075ebafd860204175e4441856a4893eb79"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/CPUStatsDetailView.swift",
+    "bytes": 2612,
+    "sha256": "221ad6c30055f9f270b02832f90dd39f7d89b97b589643a8d4896ab9760ecd66"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/CPUStatsSharedViews.swift",
+    "bytes": 19232,
+    "sha256": "c9950bde4741d7352f4ea65d0c8bc84b5e1c487679dc69b99e785e864664aa36"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/CircularGaugeView.swift",
+    "bytes": 2460,
+    "sha256": "627933f843adbbad4d942cd989b536cf798ba8dfe9f2678f03e1b790551696d4"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/DetailedTimelineGraph.swift",
+    "bytes": 731,
+    "sha256": "69a1b4b6aceaf13649272eda4058d0c25d20a37018e5e1a976e7321879281f95"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/DiskStatsDetailView.swift",
+    "bytes": 8745,
+    "sha256": "1dbbba56d33f91901f6dd32af9fe9a786d158963560d762bb067665ea02be19a"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/DualTimelineGraph.swift",
+    "bytes": 731,
+    "sha256": "69a1b4b6aceaf13649272eda4058d0c25d20a37018e5e1a976e7321879281f95"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/GPUStatsDetailView.swift",
+    "bytes": 12376,
+    "sha256": "5f2d6b763966cfc494d34202fec6b2d4a9f0151b635ea7cfa40f7f229d2e59f5"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/MemoryStatsDetailView.swift",
+    "bytes": 9939,
+    "sha256": "aeccc782459f94dcb23b7896a73c2c59cc5c642f7a7f498d4772335fa686f9e8"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/NetworkStatsDetailView.swift",
+    "bytes": 10579,
+    "sha256": "fb891800aba0768500d1173886dc4c3799f6913d888a33df93e289f4684a2eb6"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/ProcessStats.swift",
+    "bytes": 2323,
+    "sha256": "f839eab8f8c84ebc9f936cd36e00562283a892ca00fe2e3d5a3b69022dc38a4d"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/RankedProcessPopover.swift",
+    "bytes": 4181,
+    "sha256": "74da1abde081c9fe8abec53d5d0eae65ef0942384f2f1e1d0cf8a8701b1a4ea3"
+  },
+  {
+    "path": "DynamicIsland/components/Stats/StatsFormatting.swift",
+    "bytes": 3550,
+    "sha256": "c47dbee3bc9625fba066bac09e531e9a8be4a7378506b3b8c4a04579b2f9d3cd"
+  },
+  {
+    "path": "DynamicIsland/components/Tabs/TabButton.swift",
+    "bytes": 1297,
+    "sha256": "922d6e433dbe911497f19f79644a6d63f999fd0eb3d8731901b3358a0dcbeb52"
+  },
+  {
+    "path": "DynamicIsland/components/Tabs/TabSelectionView.swift",
+    "bytes": 5113,
+    "sha256": "d136a9cba05f6c3c50426eebc7798a9ffa48336a2ec6b8d71b2f0ea33d02ef6e"
+  },
+  {
+    "path": "DynamicIsland/components/TestView.swift",
+    "bytes": 3894,
+    "sha256": "a371adc1e1db8c38eb221f01bd8aa85fb48967d4239d380b3f3deb47e20a53b2"
+  },
+  {
+    "path": "DynamicIsland/components/Timer/RulerTimerPicker.swift",
+    "bytes": 12973,
+    "sha256": "d4c6cfc46682d61c58caab5339a39cf2d5777693849b6b7c83198088ad21564b"
+  },
+  {
+    "path": "DynamicIsland/components/Timer/TimerIconAnimation.swift",
+    "bytes": 2646,
+    "sha256": "f52ad2a0ec7f8be471f44b2c005e817ce2be254ab906d422c2aec4281d40cff1"
+  },
+  {
+    "path": "DynamicIsland/components/Timer/TimerLiveActivity.swift",
+    "bytes": 17685,
+    "sha256": "45c284fe5691518f336e8166536cea1c481885557f9983de81089d5ac6dd6891"
+  },
+  {
+    "path": "DynamicIsland/components/Timer/TimerPopover.swift",
+    "bytes": 14198,
+    "sha256": "f24ddd7d5654c111fea944e9e741b06f6a4839616123cb3f138fdfe6105f932a"
+  },
+  {
+    "path": "DynamicIsland/components/Tips/TipStore.swift",
+    "bytes": 2198,
+    "sha256": "be9958a985e9f8fa1ed65a756c82dc41523556ca5d9493d9b16ef7e4702dc262"
+  },
+  {
+    "path": "DynamicIsland/components/UI/FocusIndicator.swift",
+    "bytes": 2156,
+    "sha256": "8a22b0929f1027c0759cbfab5eb7abf3851569825ed168978d83af9120cbfe9f"
+  },
+  {
+    "path": "DynamicIsland/components/UI/RecordingIndicator.swift",
+    "bytes": 6380,
+    "sha256": "e27fe1517f8f34ce55508fbdd2de919600c8328cf95089dd64315182c4290bc6"
+  },
+  {
+    "path": "DynamicIsland/components/Webcam/WebcamView.swift",
+    "bytes": 5728,
+    "sha256": "1ddc745b77a8330db7832397d3e90f6186e340bae8929fedca80ab0fbf41a649"
+  },
+  {
+    "path": "DynamicIsland/components/WhatsNewView.swift",
+    "bytes": 1501,
+    "sha256": "c6ec87369d6c31f4ac002c3a1c4e50cb3aade6a7836cc9fe02bbeda559a58436"
+  },
+  {
+    "path": "DynamicIsland/dynamic.m4a",
+    "bytes": 123598,
+    "sha256": "2f5f1ecde2c14c71b4ede7558dbd6b572e854c3c73703b1f8e9aa9a80c966ac9"
+  },
+  {
+    "path": "DynamicIsland/enums/TimerDisplayMode.swift",
+    "bytes": 1440,
+    "sha256": "7bb6f1627562ba09cdd9cfdf8a124ffcd0a87b24c4a88bfb5ab36d5d12e92804"
+  },
+  {
+    "path": "DynamicIsland/enums/generic.swift",
+    "bytes": 10459,
+    "sha256": "720b03434a291c7f2c8f615e0651eb1a0d5167342b483552f73bc8764847cfcc"
+  },
+  {
+    "path": "DynamicIsland/extensions/ActionBar.swift",
+    "bytes": 1626,
+    "sha256": "fbefea1ec2b20e590dc92ffb24865436cfaa3a8ca5db4477996eaac503f9dc20"
+  },
+  {
+    "path": "DynamicIsland/extensions/AlbumArtFlipModifier.swift",
+    "bytes": 731,
+    "sha256": "69a1b4b6aceaf13649272eda4058d0c25d20a37018e5e1a976e7321879281f95"
+  },
+  {
+    "path": "DynamicIsland/extensions/BundleInfos.swift",
+    "bytes": 2141,
+    "sha256": "5831a096544bfc9d9fdce1c8fc02cc10a5bd6e36636fe47b90a03e147a73c000"
+  },
+  {
+    "path": "DynamicIsland/extensions/Button+Bouncing.swift",
+    "bytes": 1873,
+    "sha256": "b4a72b6fb53dcb2ce5c863195964b94535f988a0c5f0a6f2b7b99e05fa85353c"
+  },
+  {
+    "path": "DynamicIsland/extensions/Color+AccentColor.swift",
+    "bytes": 1270,
+    "sha256": "7485e385f6d5b6173873b7337ef3dc4908a87d9768c856f4ccfde22b7c0a1508"
+  },
+  {
+    "path": "DynamicIsland/extensions/ConditionalModifier.swift",
+    "bytes": 1108,
+    "sha256": "61a137f54e5467b0fceb80bb0f952a7e71506da6945eccd01a25becdeb03ced4"
+  },
+  {
+    "path": "DynamicIsland/extensions/DataTypes+Extensions.swift",
+    "bytes": 2872,
+    "sha256": "d50fc675c9e9d50cc1bfb7c680cdd612c1c78a523a0ea3f24b820886b6263ed6"
+  },
+  {
+    "path": "DynamicIsland/extensions/Image+InternalSystemName.swift",
+    "bytes": 1103,
+    "sha256": "61ee95c988c11710b1a49554336b9fef1f726c50bc5d11970c0f8959463fdc4c"
+  },
+  {
+    "path": "DynamicIsland/extensions/KeyboardShortcutsHelper.swift",
+    "bytes": 3763,
+    "sha256": "52effb0d8d19994800482c4ecb26147ce85536764c04ad5c444dae7d56d9b592"
+  },
+  {
+    "path": "DynamicIsland/extensions/MouseTracker.swift",
+    "bytes": 1165,
+    "sha256": "b7dd7b2dc6357f77a67410ef58f2d8400aada6cc55751aa8fcc117d7b2c29731"
+  },
+  {
+    "path": "DynamicIsland/extensions/NSImage+Extensions.swift",
+    "bytes": 18530,
+    "sha256": "5f0fad1f63c9056cd981dc954452e5cd080dfe02b8642df8f392be0d5e80dbb7"
+  },
+  {
+    "path": "DynamicIsland/extensions/NSItemProvider+LoadHelpers.swift",
+    "bytes": 8262,
+    "sha256": "0f165a2a41da81602d96ca983f702c5c632d0de5c03dc000acb2b25621264257"
+  },
+  {
+    "path": "DynamicIsland/extensions/NSMenu+AssociatedObject.swift",
+    "bytes": 1215,
+    "sha256": "8757ef041fea3c26611536fa6e20f8037e256ee189033f8f39843d97d91d5b41"
+  },
+  {
+    "path": "DynamicIsland/extensions/PanGesture.swift",
+    "bytes": 7491,
+    "sha256": "bb72c8204769df27a0f0ad23acdac67cf93a2682b7eaacdee0a34c6208ce56e2"
+  },
+  {
+    "path": "DynamicIsland/extensions/URL+SecurityScoped.swift",
+    "bytes": 2093,
+    "sha256": "5eb9f710eca35d80ffd1531d9eed663122adce7e7a628ed31aeff2dcfe8e6fbb"
+  },
+  {
+    "path": "DynamicIsland/extensions/View+Parallax3D.swift",
+    "bytes": 3563,
+    "sha256": "ccfdbb0225f77bf1654685b021b49b14987f01ac9aafa99b631be6004a299650"
+  },
+  {
+    "path": "DynamicIsland/helpers/AccessibilityPermissionStore.swift",
+    "bytes": 2999,
+    "sha256": "aa87dc7ee1c10595b3a14d9d9ddcd48084a44008f4eb645d25cb3d7635234285"
+  },
+  {
+    "path": "DynamicIsland/helpers/AppIcons.swift",
+    "bytes": 2747,
+    "sha256": "10d59fe4a8f0b2957d4b448136a07a338003c680cf570d088d817fb4040acca1"
+  },
+  {
+    "path": "DynamicIsland/helpers/AppRuntimeEnvironment.swift",
+    "bytes": 1131,
+    "sha256": "d8f256f99c32d9f2d706f3ec0e26e71f365e3617f7fb957cdf6e2be8b5f6d3de"
+  },
+  {
+    "path": "DynamicIsland/helpers/AppleScriptError.swift",
+    "bytes": 851,
+    "sha256": "82c17ea6e713af096529f97816ed09da1608650366fa338e7c5be3c0326ae025"
+  },
+  {
+    "path": "DynamicIsland/helpers/AppleScriptHelper.swift",
+    "bytes": 1892,
+    "sha256": "6ed06bc5f4cd04d68d92fc329f1e945a944ad584d20a0492de07740715447655"
+  },
+  {
+    "path": "DynamicIsland/helpers/AppleScriptRunner.swift",
+    "bytes": 1482,
+    "sha256": "3f71d5ba4070f3a1eb85a258ba2f33a3207c32a0c7b1b5c7281feec63afc41d7"
+  },
+  {
+    "path": "DynamicIsland/helpers/AssociatedObject.swift",
+    "bytes": 1569,
+    "sha256": "0d66b8f5c9079bf695d014d58e8ac89cb1a747e58d338ff064b4defcc0792519"
+  },
+  {
+    "path": "DynamicIsland/helpers/AudioPlayer.swift",
+    "bytes": 1095,
+    "sha256": "5bea2b6b41daa041c3002ad2e3f6f6a41c9d684a2b79ea37335a0f50e6084e9c"
+  },
+  {
+    "path": "DynamicIsland/helpers/Clipboard+Content.swift",
+    "bytes": 2333,
+    "sha256": "fe531b85f453d860f86e93429b16c44587470a7e8809c86a48bbe17e547b0a3e"
+  },
+  {
+    "path": "DynamicIsland/helpers/ClosedMusicPairingVisibility.swift",
+    "bytes": 1721,
+    "sha256": "cfc0270295b28e89f8802052e0f40ee67147e09da576666317897ea999d8256b"
+  },
+  {
+    "path": "DynamicIsland/helpers/CoreBrightnessDisplayClient.swift",
+    "bytes": 4352,
+    "sha256": "32c133e2e34fdcb7a08fbc393bd5b0a5846fb76b92eb89d07fb7a5e781859544"
+  },
+  {
+    "path": "DynamicIsland/helpers/DisplayServicesDynamic.swift",
+    "bytes": 2351,
+    "sha256": "3ab30dd5f8bf85b792bb13f7d91acbf2e20161f8d33d1db844ddedcbc385d9c0"
+  },
+  {
+    "path": "DynamicIsland/helpers/FullDiskAccessPermissionStore.swift",
+    "bytes": 7982,
+    "sha256": "236fc27c7cfb64b8ad8d1e0d8c28e42626bbdfea3e77fc4cddbf12f9c9a1b24c"
+  },
+  {
+    "path": "DynamicIsland/helpers/LiquidGlassBackground.swift",
+    "bytes": 10523,
+    "sha256": "936217ada844a4aaa36bc3fa51e7b16219614abb5fb11b6e2294bf664793d46e"
+  },
+  {
+    "path": "DynamicIsland/helpers/MediaChecker.swift",
+    "bytes": 4053,
+    "sha256": "0652b0bf2dcf4095448be875dc12b3dd7a92eab217ac6de9afec3d098debb83d"
+  },
+  {
+    "path": "DynamicIsland/helpers/RecordingHUDLayout.swift",
+    "bytes": 4738,
+    "sha256": "afd11e2fee19f9149141dd8eb2fe03cc295d9a5e0f3d4325d9f15245223a08a3"
+  },
+  {
+    "path": "DynamicIsland/helpers/ScreenCaptureVisibilityManager.swift",
+    "bytes": 2434,
+    "sha256": "46d09afe3561e10484535ceff3194635300eda3c4435307783aad43a6008e555"
+  },
+  {
+    "path": "DynamicIsland/helpers/SensorError.swift",
+    "bytes": 984,
+    "sha256": "420cfc85e4cc153bc6b6376dd4b6d68497dd4ca8ba74115e367e9a6834467c51"
+  },
+  {
+    "path": "DynamicIsland/helpers/SensorMethod.swift",
+    "bytes": 820,
+    "sha256": "5df548bcd30af0d6a762c32a8298c2be7ed141ea79cef6d6fb233b937787e051"
+  },
+  {
+    "path": "DynamicIsland/helpers/SystemHUDDebugger.swift",
+    "bytes": 3629,
+    "sha256": "1e11fc2c754fc2699a251e82c2437a178bdecc7d8af2af526d978ca215da03aa"
+  },
+  {
+    "path": "DynamicIsland/lock.mp3",
+    "bytes": 8403,
+    "sha256": "803df1ed47037768da9b705e668c039ae5e53fc099ba7d467f4a187b0e495328"
+  },
+  {
+    "path": "DynamicIsland/lowbattery.mp3",
+    "bytes": 21244,
+    "sha256": "2eac508ea5b30575c8f3afa83dee8d1ff1207c5556f7f141fb6423af9e4f439b"
+  },
+  {
+    "path": "DynamicIsland/managers/AccessoryConnectionManager.swift",
+    "bytes": 18488,
+    "sha256": "f0449e4d9af2b8c9242be729695ae73f8ae9926b9a5e76b4e9db3c701fd257ac"
+  },
+  {
+    "path": "DynamicIsland/managers/AirPodsBatteryWarningManager.swift",
+    "bytes": 27233,
+    "sha256": "560c8b5979dfd201559bd72099b1ddf555e49e9520720b9c1ad07c2db466a39a"
+  },
+  {
+    "path": "DynamicIsland/managers/AnimatedArtworkManager.swift",
+    "bytes": 8931,
+    "sha256": "52ebb1430d8187a54dde08b814ac601a619bd23ebd3d085b7e8ad33e75b95ed2"
+  },
+  {
+    "path": "DynamicIsland/managers/AppleMusicAirPlayManager.swift",
+    "bytes": 10064,
+    "sha256": "53e8777d92929cb05c4716979cc9097068dc26f79b75e80231de58f3ff48d339"
+  },
+  {
+    "path": "DynamicIsland/managers/AppleNotesSyncManager.swift",
+    "bytes": 16325,
+    "sha256": "307fabbb64d071c85f5853ce218de53959f427e7010edf98d1d560b1343f260a"
+  },
+  {
+    "path": "DynamicIsland/managers/AudioRouteManager.swift",
+    "bytes": 9737,
+    "sha256": "8dbfe840c062ad95277457fd427bc0ae15dca99c76fbc8f6a09e57302e6076a6"
+  },
+  {
+    "path": "DynamicIsland/managers/BatteryActivityManager.swift",
+    "bytes": 14781,
+    "sha256": "ff2a7ad7dba47bd7c5958bed5a6c5b833007bd0da77eddce65d92bd256c5efba"
+  },
+  {
+    "path": "DynamicIsland/managers/BatteryHistoryManager.swift",
+    "bytes": 6103,
+    "sha256": "93de06bfb18e845b07214522adffceab35efc40e9906b537a5f62504ebe00bff"
+  },
+  {
+    "path": "DynamicIsland/managers/BatteryMenuBarController.swift",
+    "bytes": 9364,
+    "sha256": "52bda628106173f267b9ff50071ca5881f6892a515cb8339b7a4f69321bf6022"
+  },
+  {
+    "path": "DynamicIsland/managers/BetterDisplayManager.swift",
+    "bytes": 24497,
+    "sha256": "7d1d81cc8a75e2a9eedea848a3da61f0c494fc813f9d31a4c80788322dce63e0"
+  },
+  {
+    "path": "DynamicIsland/managers/BluetoothAudioManager.swift",
+    "bytes": 115556,
+    "sha256": "1da7f0392278bcc0e63bfac218e49b1baff56eadfc44a0801d692abfa934fe10"
+  },
+  {
+    "path": "DynamicIsland/managers/BreakReminderManager.swift",
+    "bytes": 18074,
+    "sha256": "810d28a2fbb758e5da3bb1f8f11d1cbaf9925b5612353666890c2f15bc904410"
+  },
+  {
+    "path": "DynamicIsland/managers/CaffeinateManager.swift",
+    "bytes": 6294,
+    "sha256": "b39b774fa704e0148a2c5156f0e1e3908081569f025a32d7c656e9d0a133498c"
+  },
+  {
+    "path": "DynamicIsland/managers/CalendarManager.swift",
+    "bytes": 16189,
+    "sha256": "2f4abfdc17ab12aa36c8e99d0a4a87693bed55d3c78c03c050bd27e0f562075d"
+  },
+  {
+    "path": "DynamicIsland/managers/CameraMonitor.swift",
+    "bytes": 12993,
+    "sha256": "017ffdc8cb9f5b48e2dda372ed200d4a234bd78ea7708f8f13b27a441d7d2ce6"
+  },
+  {
+    "path": "DynamicIsland/managers/CapsLockManager.swift",
+    "bytes": 4564,
+    "sha256": "4e6702c389d0a09a99825158a2bacb3e6c4145e2a19efca6897cab63164ba528"
+  },
+  {
+    "path": "DynamicIsland/managers/CircularHUDWindowManager.swift",
+    "bytes": 5931,
+    "sha256": "75426bb0d966e1cdf3f0162884584b614bdeb911d2494267763ed1dc07583b3f"
+  },
+  {
+    "path": "DynamicIsland/managers/ClipboardManager.swift",
+    "bytes": 34188,
+    "sha256": "824188de79991e93601e0370edccee9bab2ebe419aaefa60762afb265da89354"
+  },
+  {
+    "path": "DynamicIsland/managers/ClipboardPanelManager.swift",
+    "bytes": 2012,
+    "sha256": "641fbbc19095ab5276a10abe0871681c511cfbecf36514d7b77214bdc26256a6"
+  },
+  {
+    "path": "DynamicIsland/managers/ClipboardWindowManager.swift",
+    "bytes": 4511,
+    "sha256": "91387313f961cf3341d6b095148bd1ae03f301a167c746e9cf3fb6ec35af7c59"
+  },
+  {
+    "path": "DynamicIsland/managers/CriticalBatteryBorderManager.swift",
+    "bytes": 6025,
+    "sha256": "43805a72562ea0512ad77c165b3672b6fa5f824b0c8ac2f02e8dffbdf610f4c0"
+  },
+  {
+    "path": "DynamicIsland/managers/CustomOSDWindowManager.swift",
+    "bytes": 12167,
+    "sha256": "8fd234089068b3ff1d1312c0b00bcd0f64d2bae9f82951d0bcf073d933187942"
+  },
+  {
+    "path": "DynamicIsland/managers/DesktopSwitchManager.swift",
+    "bytes": 5850,
+    "sha256": "657b4216fb38533cb768c5efd1aaee3c37a3ed0fd9b16e88da41641546584f9b"
+  },
+  {
+    "path": "DynamicIsland/managers/DoNotDisturbManager.swift",
+    "bytes": 60585,
+    "sha256": "43d47cd52b02d3545e1f0c205cb5b89d08be0a6678c54bbfdfd53cdcf6552eaf"
+  },
+  {
+    "path": "DynamicIsland/managers/DownloadManager.swift",
+    "bytes": 27489,
+    "sha256": "4f53fe08a10620a88f8590fba0262e4cb705e8027099cc726c621b39f8f665ff"
+  },
+  {
+    "path": "DynamicIsland/managers/FlyoutFrameCalculator.swift",
+    "bytes": 2087,
+    "sha256": "8a5bc6b3d84c3aec2b86e41d453105aec0ba9c2694050289d44145cee3738614"
+  },
+  {
+    "path": "DynamicIsland/managers/FlyoutWindowPresenter.swift",
+    "bytes": 12564,
+    "sha256": "96ae8c4f855a241f03cb761c613c06eee49c05c68d5c39c95fabc7ce55504e30"
+  },
+  {
+    "path": "DynamicIsland/managers/FullScreenArtworkWindowManager.swift",
+    "bytes": 68586,
+    "sha256": "24a0995273b0d9375f3a6b26ab4ffe6a47fc8247d7caed11649a1ca3af33c7b5"
+  },
+  {
+    "path": "DynamicIsland/managers/IdleAnimationManager.swift",
+    "bytes": 13703,
+    "sha256": "7a0c6f38ae7201e3d3a2354dc3dcb1aaf678feb5561f6cecd7744b8072a04454"
+  },
+  {
+    "path": "DynamicIsland/managers/ImageService.swift",
+    "bytes": 2435,
+    "sha256": "f384ceea2d68833fcf437e098a1c1eeb78cddba4b5e40b9f62ff0cbb412243e6"
+  },
+  {
+    "path": "DynamicIsland/managers/KeyboardBrightnessSensor.swift",
+    "bytes": 7508,
+    "sha256": "4e463c315ebf778e04ac114060850aa67fd6a17185f95aaa80409f160c594179"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/AntigravityUsageProvider.swift",
+    "bytes": 34593,
+    "sha256": "76c61c5468387b6878d9fba2140f6995cdfbf46ec1616872ea274516b74cc3dc"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/ClaudeUsageProvider.swift",
+    "bytes": 3691,
+    "sha256": "164c00ff86d8f4b0fba08e16166854168a4247f5e42415c2e29d8c9c467bb5e5"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/CodexUsageProvider.swift",
+    "bytes": 1226,
+    "sha256": "4cae6144dcd2fec0aca3edc7dc7903ab695fbfee5e206cf7b6e55f88b535ce38"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/CursorUsageProvider.swift",
+    "bytes": 772,
+    "sha256": "6bb872dddb1c4bb74e73d26e0dc28236f18bc966cba37ebf1076de003ef10024"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/JSONLUsageParser.swift",
+    "bytes": 10492,
+    "sha256": "2ac40c428265cfaf208ea5dfb07b9e300451608af05f204c4a1ca4782b543eac"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/LLMUsageManager.swift",
+    "bytes": 2100,
+    "sha256": "e566624dd235f29f02c460d27bddc8228d68efb8b347caecca7ff285aad1a731"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/ModelPricing.swift",
+    "bytes": 2566,
+    "sha256": "14fa74478fd2ac9e8892266dce048e82c9b80810c12b9fba8be8539f41622026"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/ModelPricingManager.swift",
+    "bytes": 8927,
+    "sha256": "f8aa44b8dab95c217d595c8d2d0b2af67611ca6f9522e464f2084922fc95a221"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/NewAPIUsage.swift",
+    "bytes": 16236,
+    "sha256": "ed12adbdab5fdf52b9e979a86118af086a7dd9437ea2d054e30377b0ed972f3f"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/ClaudeQuotaClient.swift",
+    "bytes": 13829,
+    "sha256": "604a53160ac126dfdf1a028a8d46ff25e3ef6283e7be4defe0e0fa83b4bd8297"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/CodexQuotaClient.swift",
+    "bytes": 5325,
+    "sha256": "dfb14cd45066ed7b9597663fb3018d324d95d7077334e7353734c013250e4e77"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/CursorQuotaClient.swift",
+    "bytes": 3318,
+    "sha256": "d7ffd38a64216623c1b1a260844273443d2b3c7f5f3bcc7cd2975803e8bf6ced"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/CursorQuotaPayload.swift",
+    "bytes": 4371,
+    "sha256": "b09e1ff56305d2fb105b0fa69f0e004d0ae63c75ec31a50d7829a1fc072a0530"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/CursorTokenStore.swift",
+    "bytes": 2050,
+    "sha256": "621d72a28eaf54d6d09aae896a9a5933dbdd8aba579b76ae1d2f0cfc1b85af40"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/Quota/KeychainReader.swift",
+    "bytes": 8216,
+    "sha256": "54813aad1eaf120fb6fa90e5c2140904e9c27090923502d9f79e12b65651716b"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/UsageProvider.swift",
+    "bytes": 2408,
+    "sha256": "6475265ae5648ad69b54d1d06253676dc06713275db033e0244aa5116826dfce"
+  },
+  {
+    "path": "DynamicIsland/managers/LLMUsage/pricing.json",
+    "bytes": 23186,
+    "sha256": "75bf3318c7b77eff17b6f342e3cb28214c04f02e33693059bdc6a309dc23f81b"
+  },
+  {
+    "path": "DynamicIsland/managers/LRCParser.swift",
+    "bytes": 4216,
+    "sha256": "8aaec72194b8f6f6b8c48154fe9ce80633bfb9570779046d1f6441bd1b936039"
+  },
+  {
+    "path": "DynamicIsland/managers/LocalSendDevicePickerWindowManager.swift",
+    "bytes": 20684,
+    "sha256": "d2a4f9e144d7e64c5b026c9a2a712239692923c96db9bde48cc4ede256168fc9"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenDisplayContextProvider.swift",
+    "bytes": 4017,
+    "sha256": "5fa259e6a653ac95323b7b4fa927a1741a255797e562eae41ca223502f7e11f3"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenLiveActivityWindowManager.swift",
+    "bytes": 12292,
+    "sha256": "2a0040b8e2411e10934688bfcb5f50e5c84383618d26f64861874b495409f666"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenManager.swift",
+    "bytes": 20518,
+    "sha256": "445896ff5c0c2952fc7cee687a63f54a2f64cdbada821ceafb5c760e918ae217"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenPanelManager.swift",
+    "bytes": 16618,
+    "sha256": "20ef4572da77f78255f52c84d63a809dd18efdd04b8321fa925d36b4b6c45178"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenReminderWidgetManager.swift",
+    "bytes": 4699,
+    "sha256": "21973bd676efdb5e21f66f0f223919f47eb97787a3b1685e9f601269856d0463"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenReminderWidgetPanelManager.swift",
+    "bytes": 7518,
+    "sha256": "1526899ec71c6a7abfb7bbafe058e03fb6d9e62be2803e7f52d953ca13d463f9"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenTimerWidgetManager.swift",
+    "bytes": 11631,
+    "sha256": "c5ab7616b51763fc2d9629fbb0eb93abe0cd04861dff64b3a71d5d322ae0e8c0"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenWeatherManager.swift",
+    "bytes": 45942,
+    "sha256": "5b1d1f7e9c5a478f0cfb89eaa7520d4a1c26c9e9d25b1e7be4b33588b84faa3c"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenWeatherPanelManager.swift",
+    "bytes": 7470,
+    "sha256": "0a4a6ac9ccaf05f3bf664fbe374dbccef1a2f41ed1c4e14c35f47fc6dc425992"
+  },
+  {
+    "path": "DynamicIsland/managers/LockScreenWidgetPreviewManager.swift",
+    "bytes": 21008,
+    "sha256": "5310150fc0218d5a113969aebabcbf5495b871c95e3fb9985455d01a2d92c0b3"
+  },
+  {
+    "path": "DynamicIsland/managers/LunarManager.swift",
+    "bytes": 21898,
+    "sha256": "a2aadf167011c03e739aa3d68c80fff329470e9d26214c901adcb09c2a76bb20"
+  },
+  {
+    "path": "DynamicIsland/managers/LyricsMetadata.swift",
+    "bytes": 15363,
+    "sha256": "97964f796c809f388ad1ebdf20ed170014c86e4c9a6c3825c9751c24d102bb77"
+  },
+  {
+    "path": "DynamicIsland/managers/MacBatteryManager.swift",
+    "bytes": 9965,
+    "sha256": "cf546330b6ceaab5d7b899760dd282918684d1eef85960790b4cf7fca57a4f82"
+  },
+  {
+    "path": "DynamicIsland/managers/MacNativeBatteryAlertManager.swift",
+    "bytes": 2658,
+    "sha256": "a833fac5ad97b1150c0a4b6f89c5459cb008c72ad53f55ce128a0ee2191d1183"
+  },
+  {
+    "path": "DynamicIsland/managers/MediaKeyInterceptor.swift",
+    "bytes": 18717,
+    "sha256": "dc4db48b20bab8af9e70fac593df26ac90d6a4120fe52a247d3577d0aed66f2d"
+  },
+  {
+    "path": "DynamicIsland/managers/MemoryUsageMonitor.swift",
+    "bytes": 5286,
+    "sha256": "c63d84c5ebc556497abc97c31a0efa1d09a3424c893a88aea920dfb7bf73fb49"
+  },
+  {
+    "path": "DynamicIsland/managers/MenuBarLayout.swift",
+    "bytes": 7776,
+    "sha256": "3a81fc2bc499294716d29dd58a1d07cc4a500afd172a404b053e1e37ee75f0c6"
+  },
+  {
+    "path": "DynamicIsland/managers/MicrophoneMonitor.swift",
+    "bytes": 10409,
+    "sha256": "2f5556d8310bbd2e983424f5a64b351b7f97a9f08877c9b6081e43e214201218"
+  },
+  {
+    "path": "DynamicIsland/managers/MusicControlWindowManager.swift",
+    "bytes": 2082,
+    "sha256": "a0c79aabcba88fc268a475b6fd3f439f5fff03a0350ffcadd09302bc0ef08553"
+  },
+  {
+    "path": "DynamicIsland/managers/MusicManager.swift",
+    "bytes": 88562,
+    "sha256": "a351fd5f7c6eed86d2d69f527d19085c0213f05c41e87862a05f0e3e49b1254a"
+  },
+  {
+    "path": "DynamicIsland/managers/NearbyBatteryManager.swift",
+    "bytes": 12676,
+    "sha256": "75eae9c31baab1c38da996be16a97d38e75dd7cb9b11e17fb9840c330f591a20"
+  },
+  {
+    "path": "DynamicIsland/managers/NetEaseLyrics.swift",
+    "bytes": 10347,
+    "sha256": "d95bc81c26e9ce0fdef51273e050c532e07a83d2db59788f7eaf8e79e263ed56"
+  },
+  {
+    "path": "DynamicIsland/managers/NetworkConnectivityManager.swift",
+    "bytes": 12407,
+    "sha256": "997ff2a1982db39eeed161c1a4b92964ea4556675c82362bfc78b1ca46ebc65b"
+  },
+  {
+    "path": "DynamicIsland/managers/NotchSpaceManager.swift",
+    "bytes": 1147,
+    "sha256": "80aef22b27dd34e153bfb6f28e933247d6ab633846754eacf86522fe5068c1cc"
+  },
+  {
+    "path": "DynamicIsland/managers/OrbitBatteryHub.swift",
+    "bytes": 7556,
+    "sha256": "49ca5e848fa9ccb3d0db33715536adf71da071981b9b30a2e0c55eeaef954def"
+  },
+  {
+    "path": "DynamicIsland/managers/OrbitDataMigration.swift",
+    "bytes": 5016,
+    "sha256": "f4f1dbdee4724926cd391e63fb6640cbcebf5f6d5dd28ba6343b08a4e33afee5"
+  },
+  {
+    "path": "DynamicIsland/managers/PerAppVolumeManager.swift",
+    "bytes": 17777,
+    "sha256": "6fefb6517007288b121d492ca9a1080a8eaa66f473be3f4b65e0d1aeb91b9380"
+  },
+  {
+    "path": "DynamicIsland/managers/PrivacyIndicatorManager.swift",
+    "bytes": 9431,
+    "sha256": "d74b3afc78fb344efc0c8953e82ce7e7ba551c96e50c5e82020b3d326e430a5e"
+  },
+  {
+    "path": "DynamicIsland/managers/ReminderLiveActivityManager.swift",
+    "bytes": 26160,
+    "sha256": "0339bed5f156dd71386567a47e96c927f3d278a95b545e5ed14e312f44ad5fd3"
+  },
+  {
+    "path": "DynamicIsland/managers/ScreenRecordingManager.swift",
+    "bytes": 17866,
+    "sha256": "679c1f22e60a88fc39d783539393c425316a4a1cd174a7f2ad9bc16957e4ee27"
+  },
+  {
+    "path": "DynamicIsland/managers/SiriVisibilityMonitor.swift",
+    "bytes": 9280,
+    "sha256": "49c54e000747c6287f21407446136a9dcdffe997617fcea37c0b1c3290271950"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyAuthSession.swift",
+    "bytes": 3168,
+    "sha256": "f18df3f1d1f98b8c634f19aa192acfe0e7007a898cd2b207c7b288ad18829818"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyHTTPClient.swift",
+    "bytes": 1474,
+    "sha256": "5caff224aa27e8baa3beff813aed0dc1208321e0f999439736ed48172a05e8f3"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyLibraryAPI.swift",
+    "bytes": 4804,
+    "sha256": "36a2ffa3020734f15dab1a8cbaa90955e5cfe43bb727dac4ae6b0d1b4674c059"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyLibraryError.swift",
+    "bytes": 1556,
+    "sha256": "373bf1ddbd3f4828f40b44d377f539f559e30fe32c09f736bda7f2e3df00dcac"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyLibraryManager.swift",
+    "bytes": 5500,
+    "sha256": "13d632e43663a604005edc95296a5f50fa837b1d10d77fed272f6425f73ee7a5"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyOAuthService.swift",
+    "bytes": 9482,
+    "sha256": "4ef0c258f98dd447df254d2a9bae41b8e99dee581b60476986d9002a57327bdc"
+  },
+  {
+    "path": "DynamicIsland/managers/Spotify/SpotifyTokenStore.swift",
+    "bytes": 3332,
+    "sha256": "87179e88c97952345f02eb4e728e0c770efea121d674c296baf9aef323951f8d"
+  },
+  {
+    "path": "DynamicIsland/managers/SpotifyAuthManager.swift",
+    "bytes": 12558,
+    "sha256": "292877488e89a270b0f868dac696e6269037dbffe655489353623ae83744febb"
+  },
+  {
+    "path": "DynamicIsland/managers/StatsManager.swift",
+    "bytes": 59591,
+    "sha256": "887675ed776e54714df2f367d3e82e4955db10faf3f6c7ee3a8b953b46834b10"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemChangesObserver.swift",
+    "bytes": 17897,
+    "sha256": "e0b7a1cbb2dddab1fc24b5f5601788ae3835e64930f336e4b63e2f2061d3d69c"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemDisplayManager.swift",
+    "bytes": 2963,
+    "sha256": "fd9dc71ef323dcb16da350a8b935ed84204a9ab74fa86282e5552cab91913067"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemHUDManager.swift",
+    "bytes": 16755,
+    "sha256": "33052fd1d024edbe2095b934180fd66870155ad01d7b69a92e6272a10db08470"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemKeyObserver.swift",
+    "bytes": 2441,
+    "sha256": "def10c4430547f099b9a24f52a9c115c6e02caca9e9cadb0a56d65d0e78adc68"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemKeyboardBacklightController.swift",
+    "bytes": 4328,
+    "sha256": "8898fd493a8a37d96881853ec2d117284d311b3876d1ef0fdfc2c8787b0dddcf"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemMediaControllers.swift",
+    "bytes": 43238,
+    "sha256": "8cdcd48017bbfeab73330741cf3b69a74b1274692c877b72a37d9c2d51f7c747"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemOSDManager.swift",
+    "bytes": 24776,
+    "sha256": "1b351eba70423d7f793981eff7105550f2d40dacc2c99b458af8eb315a91e592"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemTimerBridge.swift",
+    "bytes": 48700,
+    "sha256": "871e91e9c80e72dacf314088203b45a7c7e95becb922aa537b6a6b27b93d4f59"
+  },
+  {
+    "path": "DynamicIsland/managers/SystemVolumeManager.swift",
+    "bytes": 1685,
+    "sha256": "75323ca92523e40e641cd95d6a7b6e3c97a836edc4e7bd48c0f5392b28bbcf2f"
+  },
+  {
+    "path": "DynamicIsland/managers/TimerLifecycle.swift",
+    "bytes": 1136,
+    "sha256": "edb139e18ad19859420241b99086fa316a7a449f5226b34013db17c19f0fe475"
+  },
+  {
+    "path": "DynamicIsland/managers/TimerManager.swift",
+    "bytes": 17509,
+    "sha256": "5a4eb6eeddbf87bb70f842c239b93a6316bb1409710bd644f154f7e1e64331f8"
+  },
+  {
+    "path": "DynamicIsland/managers/TrustedDeviceBatteryReader.swift",
+    "bytes": 3722,
+    "sha256": "b30b724795fcaca0d6ff1f41a6eb72b6c95c050d2df8b67927ff8ce02dfee859"
+  },
+  {
+    "path": "DynamicIsland/managers/VerticalHUDWindowManager.swift",
+    "bytes": 9845,
+    "sha256": "ff1db721d981a59cbdb240608bd1ecee4367ea6de0579355c043eb31e85bed8b"
+  },
+  {
+    "path": "DynamicIsland/managers/WebcamManager.swift",
+    "bytes": 12114,
+    "sha256": "61a4f4a78228a532e0f47c6061f59f77e34a0aeebbeca909eb8b17143e6d7ff2"
+  },
+  {
+    "path": "DynamicIsland/managers/WindowSnapManager.swift",
+    "bytes": 18034,
+    "sha256": "32ee6f51068cf865435e8d90becdde72c042939598a3776f766bfae99b75e659"
+  },
+  {
+    "path": "DynamicIsland/menu/StatusBarMenu.swift",
+    "bytes": 1755,
+    "sha256": "b6dd9403bfd009fa9262e10c396c2c15a361d4393975fdb0cce1b18202253107"
+  },
+  {
+    "path": "DynamicIsland/metal/visualizer.metal",
+    "bytes": 414,
+    "sha256": "c09b90934f0c8fbcf2bf3fb0789deb41019971713f18cd5a1c038d1b8ec93266"
+  },
+  {
+    "path": "DynamicIsland/models/AccessoryConnectionEvent.swift",
+    "bytes": 8078,
+    "sha256": "bf6a0bfe538be0b417ecb527a363588bbbe9e3312e54bb8183198ceb44098794"
+  },
+  {
+    "path": "DynamicIsland/models/AirPodsBatteryWarning.swift",
+    "bytes": 13335,
+    "sha256": "7dda928384a78fc641a57b266f8326343bdc25b23082e892456fa362a4367e8f"
+  },
+  {
+    "path": "DynamicIsland/models/BatteryMenuSnapshot.swift",
+    "bytes": 4735,
+    "sha256": "11f436c588e070b1bb6ee9fc98c705755422052ee2b820bc56defc667970503e"
+  },
+  {
+    "path": "DynamicIsland/models/BatteryStatusViewModel.swift",
+    "bytes": 22749,
+    "sha256": "cc420f3ef0705526859679e727d92315942ed4d2d1a7f23309dd405318b744e4"
+  },
+  {
+    "path": "DynamicIsland/models/CPUMetrics.swift",
+    "bytes": 1624,
+    "sha256": "2ceeab46e7b1f01f851760aa03188d72168ce2315bd64f154715d348833b3dff"
+  },
+  {
+    "path": "DynamicIsland/models/CalendarModel.swift",
+    "bytes": 1097,
+    "sha256": "0efc337e5d0b7c2f2ba1a7be9fdff3f9f6f4e864ae7f32e907e1cb1fbe9bce6f"
+  },
+  {
+    "path": "DynamicIsland/models/Constants.swift",
+    "bytes": 69916,
+    "sha256": "29e861613f34b7f5db66a3e859a290088929c8a3d52291de37da21b2b5d38138"
+  },
+  {
+    "path": "DynamicIsland/models/DynamicIslandViewModel.swift",
+    "bytes": 18406,
+    "sha256": "85116e1b0b4b0aa4831fb10d5a154b127e0aea53d2d51b64fdf25805edd3e80d"
+  },
+  {
+    "path": "DynamicIsland/models/EventModel.swift",
+    "bytes": 7229,
+    "sha256": "67e8ad744967313441576ae729eaa15b22647e61b263884619a74ec7cefdcdce"
+  },
+  {
+    "path": "DynamicIsland/models/LockScreenReminderWidgetSnapshot.swift",
+    "bytes": 1598,
+    "sha256": "9aca8ff01be72389e6852c958e154d837807d281f7048da472986f5af951ee1a"
+  },
+  {
+    "path": "DynamicIsland/models/LowBatteryWarning.swift",
+    "bytes": 4088,
+    "sha256": "bca0e9934d055a270767cde0383328c42fd7386cdfe02207431ebb98c2d99367"
+  },
+  {
+    "path": "DynamicIsland/models/MusicControlButton.swift",
+    "bytes": 5508,
+    "sha256": "de6f66293c3f9fa0a5ebf0051fd6792a635c682d162b7a625ce9bae926562e01"
+  },
+  {
+    "path": "DynamicIsland/models/OrbitAnimationRelocation.swift",
+    "bytes": 940,
+    "sha256": "d987e403a607f45166e4e0beac082380d359a37e44aba8d38228deb794bb81db"
+  },
+  {
+    "path": "DynamicIsland/models/OrbitDeviceReconciler.swift",
+    "bytes": 4269,
+    "sha256": "6a5b4765dc8e9e762f33738dd5bee39d545a295079b85dbc3a7d3cf9069cc106"
+  },
+  {
+    "path": "DynamicIsland/models/PlaybackState.swift",
+    "bytes": 2286,
+    "sha256": "a48e16915b7b36abcbaeedc7f4bd042f9d953fa0be34856538bdff33918a8455"
+  },
+  {
+    "path": "DynamicIsland/models/SharingStateManager.swift",
+    "bytes": 4362,
+    "sha256": "21db8db381bd2867ec2c524e1717aa309f1469e139775abf76037fd670a54e14"
+  },
+  {
+    "path": "DynamicIsland/models/TimerPreset.swift",
+    "bytes": 3582,
+    "sha256": "08f9fec97c23b33c20a19f3f400a5910cf84055cacc470089aef740b0384e3a1"
+  },
+  {
+    "path": "DynamicIsland/observers/FullscreenMediaDetection.swift",
+    "bytes": 6495,
+    "sha256": "7357216e5c1a399823b9b53ac4fd42c8b4d53fcab353d3c67d92a6a1dc2c1e35"
+  },
+  {
+    "path": "DynamicIsland/private/CGSSpace.swift",
+    "bytes": 3767,
+    "sha256": "463946762e7911778b6578e95b9109cb198d817a19a52d57c0a5ba01f5c873ec"
+  },
+  {
+    "path": "DynamicIsland/sizing/matters.swift",
+    "bytes": 14097,
+    "sha256": "f786a5d3214e17c4ef19905f380580ce14b2db000bdb6fab9a51aa11776705ec"
+  },
+  {
+    "path": "DynamicIsland/strings/constants.swift",
+    "bytes": 824,
+    "sha256": "f0fc3ad944794e1fa2e83ea754050fa683637fcb7baff540bf175e69ed5e6610"
+  },
+  {
+    "path": "DynamicIsland/timer.mp3",
+    "bytes": 197376,
+    "sha256": "8cf54f05e13d79794d1322e5bea6652879a51d3afbe98febcbfcbac9e44c3a97"
+  },
+  {
+    "path": "DynamicIsland/tr.lproj/InfoPlist.strings",
+    "bytes": 1675,
+    "sha256": "831f40ebed1f0670920a2086426a33be431f175c6c88493528fafaf41f1fd4d4"
+  },
+  {
+    "path": "DynamicIsland/unlock.mp3",
+    "bytes": 8776,
+    "sha256": "f22cf12ea6525f4165bd4104d54c4c249263d0ce58ebcd7dd3382bb8fb68d112"
+  },
+  {
+    "path": "DynamicIsland/utils/AppleHardwareInfo.swift",
+    "bytes": 6789,
+    "sha256": "e97a8d19e4a886d3a8f05850c6bbdcc1f3a35fe92d312e8789654600e150ca28"
+  },
+  {
+    "path": "DynamicIsland/utils/CPUSensorCollector.swift",
+    "bytes": 10352,
+    "sha256": "42c6f7f535622d805e5fd492d67aa9eec444ec6c065ae2d508a6c1bc3eeee3bd"
+  },
+  {
+    "path": "DynamicIsland/utils/Environment+LockScreenReplica.swift",
+    "bytes": 731,
+    "sha256": "69a1b4b6aceaf13649272eda4058d0c25d20a37018e5e1a976e7321879281f95"
+  },
+  {
+    "path": "DynamicIsland/utils/IOKitHelpers.swift",
+    "bytes": 2390,
+    "sha256": "88ecf3e5d719fb4d15bf9434f3e17e2f0518b555824825c28395afdb6968cb72"
+  },
+  {
+    "path": "DynamicIsland/utils/IOReportBridging.swift",
+    "bytes": 5660,
+    "sha256": "ee0993ff8a86fd81d1eb2671c874bbb7ef316f5aaadc24772f7539eed8257698"
+  },
+  {
+    "path": "DynamicIsland/utils/Logger.swift",
+    "bytes": 5667,
+    "sha256": "2484e5bb6eba7a1f530c2d3d6316deb8fa65a7394a22c695405037c2b375b111"
+  },
+  {
+    "path": "DynamicIsland/utils/SMC.swift",
+    "bytes": 20554,
+    "sha256": "fb20b368098e47c383a65fd3eb91f10d8f68d7a837ef9856cc880d024e41bb80"
+  },
+  {
+    "path": "DynamicIslandTests/AppleMusicControllerTests.swift",
+    "bytes": 15584,
+    "sha256": "f811c41b46092ee8dd32ea789b5f6efacecf83df1f33d0a78475d9662f8755b3"
+  },
+  {
+    "path": "DynamicIslandTests/AudioTapTests.swift",
+    "bytes": 2300,
+    "sha256": "e31db0d5fe97e3bc8e09ea986a0e9756989fbd6b5ade89b4217de1b13beab85c"
+  },
+  {
+    "path": "DynamicIslandTests/BatteryMenuSnapshotTests.swift",
+    "bytes": 17501,
+    "sha256": "2a0246d0e89b79949ddc7fd9a38f323f373df343f21840ca68c0cbf655faddfe"
+  },
+  {
+    "path": "DynamicIslandTests/BreakReminderSessionTests.swift",
+    "bytes": 5413,
+    "sha256": "3f1090d244074c2c2ea74856dff372702ffd4b38158e3259437913ecca59931a"
+  },
+  {
+    "path": "DynamicIslandTests/CaffeinateManagerTests.swift",
+    "bytes": 3428,
+    "sha256": "bae47debdf8b3e0b43ead859fcfcfe6b5f358f08995e5351f2927d6866a26ec9"
+  },
+  {
+    "path": "DynamicIslandTests/CiderFavoritingTests.swift",
+    "bytes": 7201,
+    "sha256": "ba6549e1ec8119f9302567be8264c513b337bec3040dc38c96cc08044e320d46"
+  },
+  {
+    "path": "DynamicIslandTests/ClipboardHistoryPersistenceTests.swift",
+    "bytes": 14249,
+    "sha256": "c60fe113af67f37d18eb985cd80c8e94914a7e1a496feffb829d474f1c685de4"
+  },
+  {
+    "path": "DynamicIslandTests/FlyoutFrameCalculatorTests.swift",
+    "bytes": 2861,
+    "sha256": "2cd1b5ba4d80d1e6f385cc6c4da6f561d58e8cb5c5cca83eb99ebb2a9c969575"
+  },
+  {
+    "path": "DynamicIslandTests/Info.plist",
+    "bytes": 701,
+    "sha256": "58c5c0911cdf7c6fe4a120892acde2ae1e7298e967243284d83257554c756f4f"
+  },
+  {
+    "path": "DynamicIslandTests/JSONLUsageParserTests.swift",
+    "bytes": 7902,
+    "sha256": "b97bed28416072b3f74af344c2b982b72e403c5c5fe8983ce4a7192a31b04d7d"
+  },
+  {
+    "path": "DynamicIslandTests/LRCParserTests.swift",
+    "bytes": 3496,
+    "sha256": "ece623646f66090bf93ec0c0fecdb58221deadb4d3ae7562321bc260af12d93e"
+  },
+  {
+    "path": "DynamicIslandTests/LyricsMetadataTests.swift",
+    "bytes": 14374,
+    "sha256": "e9604c445db0e326b201ee5dd481a094945a24cb87f680e72832d8fe619a7d0e"
+  },
+  {
+    "path": "DynamicIslandTests/MarqueeTextMeasurementTests.swift",
+    "bytes": 2151,
+    "sha256": "785f823105eb33076ac7a3ca4d9cb180a28a696809db041c104966b2537aeae6"
+  },
+  {
+    "path": "DynamicIslandTests/MediaKeyTapRetryPolicyTests.swift",
+    "bytes": 3921,
+    "sha256": "7aaa631e02666864a758887afbce6f59bf51833c5d60c00b697240b225fae607"
+  },
+  {
+    "path": "DynamicIslandTests/MenuBarClearanceTests.swift",
+    "bytes": 66152,
+    "sha256": "934da0505418df1f82af980cda3be3bd10f5713f45f784bb06e13aa5322fd8d7"
+  },
+  {
+    "path": "DynamicIslandTests/NetEaseLyricsTests.swift",
+    "bytes": 8136,
+    "sha256": "7b80d9d4b83a4455a84b9513a10162c31ff819ce02ccdf20605b7442fa73adff"
+  },
+  {
+    "path": "DynamicIslandTests/NewAPIUsageTests.swift",
+    "bytes": 9755,
+    "sha256": "d6370a97b4edf98b480e852a54dbff22ead063a7092bea12498f9d67b99ccbda"
+  },
+  {
+    "path": "DynamicIslandTests/NowPlayingPayloadTests.swift",
+    "bytes": 4014,
+    "sha256": "ee4094f41cf35e678c5c9f43393812e0c974a1306c5cda4ed358da9635575df6"
+  },
+  {
+    "path": "DynamicIslandTests/PartialDownloadTests.swift",
+    "bytes": 17493,
+    "sha256": "7dcd150e9d13b531da00bc6f4f8a04ceab04f2b8722aadc522dfdc61c17d85e5"
+  },
+  {
+    "path": "DynamicIslandTests/PerAppVolumeTests.swift",
+    "bytes": 6389,
+    "sha256": "ccdd683eb5719a99faba693f9b49bcf2b7f47ce82edfc9e4bd9d281944c85b87"
+  },
+  {
+    "path": "DynamicIslandTests/PinnedLyricsTests.swift",
+    "bytes": 19941,
+    "sha256": "4d53007efbf2cb098a84bb740cedb13f903fae200c6aa6f5c1ac25316c9f4253"
+  },
+  {
+    "path": "DynamicIslandTests/SpotifyLibraryTests.swift",
+    "bytes": 10236,
+    "sha256": "a69697b5ed27c94d19f50bcd7ac71014927c016996cab1181b846a26aa9e8542"
+  },
+  {
+    "path": "DynamicIslandTests/SystemHUDPlacementTests.swift",
+    "bytes": 5556,
+    "sha256": "7abbde9ef67a7ff2a2b14d7ad942a7fa8bc34cc1b12bd48052fa2899f9b03a2b"
+  },
+  {
+    "path": "DynamicIslandTests/UnsyncedLyricsTests.swift",
+    "bytes": 4667,
+    "sha256": "3ed54c7365ac5ece1bb9c07912dafee8ec500f08dc9a72ec51f600b8873d224f"
+  },
+  {
+    "path": "DynamicIslandUITests/DynamicIslandUITests.swift",
+    "bytes": 1068,
+    "sha256": "4e92ac898b49e1718f56a71300668e12adab0f205e1b65e6bfa4def417f4b91d"
+  },
+  {
+    "path": "DynamicIslandUITests/Info.plist",
+    "bytes": 732,
+    "sha256": "454410e0495cb370cc570912b5cbd6d629e20a1662f4eaeeb9814df636122d25"
+  },
+  {
+    "path": "Frameworks/MediaRemoteAdapter.framework/Versions/A/MediaRemoteAdapter",
+    "bytes": 462128,
+    "sha256": "829e9cdbce5602a92f56f125e3921a82215fa6cc09a8e6fdff39d3b991dbcdac"
+  },
+  {
+    "path": "Frameworks/MediaRemoteAdapter.framework/Versions/A/Resources/Info.plist",
+    "bytes": 848,
+    "sha256": "cf7c9699302a8ddacf24465443eb7a0153e1c347bf23c3c0895af41c85368af8"
+  },
+  {
+    "path": "Frameworks/MediaRemoteAdapter.framework/Versions/A/_CodeSignature/CodeResources",
+    "bytes": 2442,
+    "sha256": "5ddd46b76ea756abd4e084c1f21566a39b4ff890bd21dce9b6f11ace69563305"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "Localizable.xcstrings",
+    "bytes": 2647422,
+    "sha256": "5fe18117bab91320bc9702c68e479a42ac2d29f33c0f8d034fd2965f77329ad9"
+  },
+  {
+    "path": "LottieAnimations/Dog waiting.json",
+    "bytes": 72561,
+    "sha256": "5a101cf915d3e014542659a0e631a084ad67ed34cc00c6f4b60a0256c3754456"
+  },
+  {
+    "path": "LottieAnimations/FingerprintScan.json",
+    "bytes": 28146,
+    "sha256": "054ecdc278856e18164b87e7c164b0d5722e43830fbc18f8bf443fb54bdcb439"
+  },
+  {
+    "path": "LottieAnimations/Lock.json",
+    "bytes": 4090,
+    "sha256": "7fdfa34e47d5c28569eb6788041032485b421a4ab75e2f3185bc2cbd4eb7726b"
+  },
+  {
+    "path": "LottieAnimations/Moody Dog.json",
+    "bytes": 57965,
+    "sha256": "e5737f6e9a5207fbb807f99091cd7596110eaf27a0f2035ad72ead38d05d3ae6"
+  },
+  {
+    "path": "LottieAnimations/Orange Cat Peeping.json",
+    "bytes": 8342,
+    "sha256": "e574880aba8937b355cc0799bc2bc7e1c2a23626322d31b2c00c4d5c579c3b91"
+  },
+  {
+    "path": "LottieAnimations/Reindeer.json",
+    "bytes": 39517,
+    "sha256": "ca8e9e169ce2802f7d6edc100392f56dbde20147be1a4dd1066b49bfe7e0cfce"
+  },
+  {
+    "path": "LowPowerHelper/NotchFlowLowPowerHelper.swift",
+    "bytes": 3995,
+    "sha256": "aeb80cb01d3a1d5c73e7da6e5897fa6f4fd339d981b31e319629b9db87180f7d"
+  },
+  {
+    "path": "LowPowerHelper/com.kayhsen.NotchFlow.LowPowerHelper.plist",
+    "bytes": 465,
+    "sha256": "56a026b296cd1e76199f58081a8ab967e15173df2876b442c5d35062710a68b5"
+  },
+  {
+    "path": "NOTICE",
+    "bytes": 1427,
+    "sha256": "f3032228bdc68e6eb5a6924e0d688a9ece9399d68908ea5d23c48345d2881dc3"
+  },
+  {
+    "path": "Orbit.xcodeproj/project.pbxproj",
+    "bytes": 67069,
+    "sha256": "c260879cfd8f85a011d203e27ebdbfb4a7ac551b94c99cae4728d66cf90095b7"
+  },
+  {
+    "path": "Orbit.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+    "bytes": 135,
+    "sha256": "7f3b00b5c3fdb45242d7b87e1e5c4e25d1fa8129a16c94295ecc4e8ea2235c5f"
+  },
+  {
+    "path": "Orbit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "bytes": 238,
+    "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
+  },
+  {
+    "path": "Orbit.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved",
+    "bytes": 3374,
+    "sha256": "b95918e04ae4e750a12b13dd122df6667a696f2729dd5b4468b51edb79e8fa86"
+  },
+  {
+    "path": "Orbit.xcodeproj/xcshareddata/xcschemes/Orbit.xcscheme",
+    "bytes": 3796,
+    "sha256": "f8608dd3235a2bcc41685ec8e67c8cacabaab849e5a5b78d3848c0a983b0de53"
+  },
+  {
+    "path": "OrbitShared/OrbitBatterySnapshot.swift",
+    "bytes": 2298,
+    "sha256": "e4cb21ff869eeffcd2b67d51fb7470a79d4cf459f412929dd90fab2887534cc8"
+  },
+  {
+    "path": "OrbitWidgets/Info.plist",
+    "bytes": 795,
+    "sha256": "fa049e32d9f3386f0030d4ebdf687b2ec6e48bfd45c53d32bca617cfbbd7b007"
+  },
+  {
+    "path": "OrbitWidgets/OrbitBatteryWidgets.swift",
+    "bytes": 8467,
+    "sha256": "8a954a99977fded3f46f54eb32a5a9d50a33741e52dec50dcb54d7b2ec3d58fb"
+  },
+  {
+    "path": "OrbitWidgets/OrbitDevelopment.entitlements",
+    "bytes": 369,
+    "sha256": "b7e2ffc5e830fa34fb6702473bbd25ab3e708e97fdb565766f45997eb7196877"
+  },
+  {
+    "path": "OrbitWidgets/OrbitWidgets.entitlements",
+    "bytes": 357,
+    "sha256": "e97b7a98a0061cae684aeeef98026157b6e3edbf19150718ca91625f7aa0fa30"
+  },
+  {
+    "path": "PRIVACY.md",
+    "bytes": 1929,
+    "sha256": "0cb8010a16d7c8b7b5b768e235ab3a2b406c5752d03618f52554e7d5235254d5"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5463,
+    "sha256": "0fdedc5daa41001377b89eeb22c8d35daa03d689bc5e99cbb14f88c721be5763"
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "bytes": 1386,
+    "sha256": "99d08debd3edf3225be08c5b05bf167ca76690a4dea045d62c3de81bc1fdb8d9"
+  },
+  {
+    "path": "TRADEMARKS",
+    "bytes": 476,
+    "sha256": "2303638e1072d3af8acb68dee7a18d3bfc76160c242d59f6ac80186928f8139b"
+  },
+  {
+    "path": "VERSION",
+    "bytes": 6,
+    "sha256": "2985be8b28d3ade858e8d8fb4bc22f565b1bf6020dff982dce141f7721b9999c"
+  },
+  {
+    "path": "mediaremote-adapter/MediaRemoteAdapter.framework/Versions/A/MediaRemoteAdapter",
+    "bytes": 462128,
+    "sha256": "829e9cdbce5602a92f56f125e3921a82215fa6cc09a8e6fdff39d3b991dbcdac"
+  },
+  {
+    "path": "mediaremote-adapter/MediaRemoteAdapter.framework/Versions/A/Resources/Info.plist",
+    "bytes": 848,
+    "sha256": "cf7c9699302a8ddacf24465443eb7a0153e1c347bf23c3c0895af41c85368af8"
+  },
+  {
+    "path": "mediaremote-adapter/MediaRemoteAdapter.framework/Versions/A/_CodeSignature/CodeResources",
+    "bytes": 2442,
+    "sha256": "5ddd46b76ea756abd4e084c1f21566a39b4ff890bd21dce9b6f11ace69563305"
+  },
+  {
+    "path": "mediaremote-adapter/mediaremote-adapter.pl",
+    "bytes": 7449,
+    "sha256": "248bc02f89650de0f019063775833d2082a66b36012b1d59a853a7415ed74bff"
+  },
+  {
+    "path": "scripts/AIRPODS_ARTWORK.md",
+    "bytes": 3597,
+    "sha256": "b5e6f20320d9e4d78b1988f53ae20e8ff46a0f23365a699febe21e623a7e21c0"
+  },
+  {
+    "path": "scripts/add_to_scheme.rb",
+    "bytes": 521,
+    "sha256": "1c8bf35a02b2d04f88000db4f6f832c0e9d64fb3ace1a39c40b9b14a8740a95e"
+  },
+  {
+    "path": "scripts/add_ui_test_target.rb",
+    "bytes": 1520,
+    "sha256": "2d429fa1759520e966baa334a1f0c278b2d93a3f051fee95339800ae4c44f34e"
+  },
+  {
+    "path": "scripts/add_unit_test_target.rb",
+    "bytes": 2458,
+    "sha256": "39bfd8fecc2ae0cb8efec9143c2e40cb2e9f2d3a038979073d450f70e9e1823d"
+  },
+  {
+    "path": "scripts/check_lyrics_metadata_order.rb",
+    "bytes": 1092,
+    "sha256": "7662057a4790a1a782491b183123655ed1f7e68a9e74a1906063a702792b1f71"
+  },
+  {
+    "path": "scripts/consolidate_cocoa_framework_ref.rb",
+    "bytes": 1461,
+    "sha256": "097a52e48dab85abe6099f4c107526b88d2d8d5bd6963143fd12d02211725280"
+  },
+  {
+    "path": "scripts/enable_testing_search_paths.rb",
+    "bytes": 369,
+    "sha256": "e10b5d9bef56733a23a06c7f7cea01cb929e5ccf3d7d14a940b68f8882e4ba18"
+  },
+  {
+    "path": "scripts/export_public_source.py",
+    "bytes": 3868,
+    "sha256": "6311248a5f38792404af783f9aa8d08a403f7b250129cbb448b127717b0e6e89"
+  },
+  {
+    "path": "scripts/fix_module_name.rb",
+    "bytes": 437,
+    "sha256": "c90d07950f99146a07cf5b8fc6c19981e031dce353efffb7bf0b75451b49dc6e"
+  },
+  {
+    "path": "scripts/fix_test_host.rb",
+    "bytes": 602,
+    "sha256": "11d15f288444f1cfe1ca308b4465bd0b7e20d8e071a3f9366d2837ccdbbea0bf"
+  },
+  {
+    "path": "scripts/pack_airpods4_artwork.swift",
+    "bytes": 1244,
+    "sha256": "6b758ebec6adad8477f51f145e3804c421f6a311787115e4c7ed859436127b4c"
+  },
+  {
+    "path": "scripts/remove_test_host.rb",
+    "bytes": 339,
+    "sha256": "78dc80a5309b24c3691e17d55de7b5dfebb6f8856472d6055d77db51f084bedf"
+  },
+  {
+    "path": "scripts/render_airpods4_product.py",
+    "bytes": 4309,
+    "sha256": "e7a989cc15d2e11d3a3df9f073c3e734ccbebc0a2086a41072facee4493d50ec"
+  },
+  {
+    "path": "scripts/render_airpods_artwork.swift",
+    "bytes": 11464,
+    "sha256": "719f3d0578db1ff51ab48aef25cd8eec65c6888e7b42a56e6dc4dfdb77639420"
+  },
+  {
+    "path": "scripts/sign_local_release.sh",
+    "bytes": 1837,
+    "sha256": "ad5c4171961c83ec11fa804501ee79c41d34cb9cbc4ada226571e984f37bc1b5"
+  },
+  {
+    "path": "scripts/test_claude_keychain.sh",
+    "bytes": 772,
+    "sha256": "86180dc7b63f5e3eb3f2dedc7246ef06a4deb11e6c8123a6da96c35cca143c81"
+  },
+  {
+    "path": "tests/TimerLifecycleRegression.swift",
+    "bytes": 1222,
+    "sha256": "17cb12f108eaa4185d04d6db4be66edf183e73ef1bf4caa6ce4543798df6e1a3"
+  },
+  {
+    "path": "tests/test_claude_keychain.swift",
+    "bytes": 7959,
+    "sha256": "659d1552f6e56d4c47fc669189a3480641636201434e01b6da90427c829c621e"
+  },
+  {
+    "path": "tests/test_cursor_quota_payload.swift",
+    "bytes": 2861,
+    "sha256": "e976db6488af95d6408fda3318e429e084b241c01a4193e57955ade7c674f83c"
+  },
+  {
+    "path": "tests/test_privacy_configuration.py",
+    "bytes": 2472,
+    "sha256": "127a6b6bdce0663e5379dccac752c6a0ffc4b96728cc830538235efda2285551"
+  },
+  {
+    "path": "tests/test_timer_lifecycle.py",
+    "bytes": 1201,
+    "sha256": "48229e0322500d1b0e5be4fdb4dd471561d9b75f07eba24a4991d8c3018c5eb9"
+  }
+]

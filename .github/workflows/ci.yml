@@ -1,0 +1,30 @@
+name: Orbit CI
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+    branches: [main, dev]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check privacy and timer configuration
+        run: |
+          python3 -m unittest tests.test_privacy_configuration
+          python3 -m unittest tests.test_timer_lifecycle
+      - name: Show toolchain
+        run: xcodebuild -version
+      - name: Prepare Metal toolchain
+        run: xcodebuild -downloadComponent MetalToolchain || true
+      - name: Compile Orbit and native widgets
+        run: >-
+          xcodebuild -project Orbit.xcodeproj -scheme Orbit
+          -configuration Release -destination 'generic/platform=macOS'
+          -derivedDataPath build CODE_SIGNING_ALLOWED=NO build

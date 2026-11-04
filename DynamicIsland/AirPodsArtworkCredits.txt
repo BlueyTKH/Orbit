@@ -1,0 +1,17 @@
+AirPods 4 artwork attribution
+
+AirPods 4 by Falah3D / 3dFalah
+https://sketchfab.com/3dFalah
+https://sketchfab.com/3d-models/airpods-4-e44730974131402eb496352cab19c82e
+Licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+
+Adapted by NotchFlow: seated and lifted poses, hinge animation, materials,
+studio lighting, camera framing and offline rendered image sequence.
+The creator does not endorse NotchFlow. Apple trademarks belong to Apple.
+
+Original FBX/textures obtained from the public CC BY source redistribution:
+https://github.com/andre94/clawd-airpods4-anc-case/tree/main/assets/reference/airpods-4
+Provenance: https://github.com/andre94/clawd-airpods4-anc-case/blob/main/THIRD_PARTY_NOTICES.md
+Only the AirPods 4 source asset was used; no Clawd cover geometry was used.
+Other case families use NotchFlow's original procedural illustrations.
