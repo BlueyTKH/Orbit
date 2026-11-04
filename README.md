@@ -29,7 +29,7 @@ The installed application is **Orbit.app**. Legacy internal type/module identifi
 
 ## Build
 
-Open **Orbit.xcodeproj**, scheme **Orbit**. The main Swift module remains `NotchFlow` for compatibility with existing tests. A recent Xcode supporting the project’s SDK APIs is required; macOS deployment target is 14.0. Widget sizes/features vary by macOS version.
+Open **Orbit.xcodeproj**, scheme **Orbit**. The main Swift module remains `NotchFlow` for compatibility with existing tests. A recent Xcode supporting the project’s SDK APIs is required; main-app macOS deployment target is 14.6. Widget sizes/features vary by macOS version.
 
 ```sh
 xcodebuild -project Orbit.xcodeproj -scheme Orbit -configuration Release \
