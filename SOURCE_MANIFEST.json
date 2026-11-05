@@ -836,8 +836,8 @@
   },
   {
     "path": "DynamicIsland/components/Notch/NotchStatsView.swift",
-    "bytes": 29499,
-    "sha256": "effe43fa773d2f0ea52cec2ba0ded772d1bea9628f5c830640cb7564f159d4fb"
+    "bytes": 29900,
+    "sha256": "ec161195386dc72782aaa9315520d3e5d1d8e92f08970441cae808cc687e01ff"
   },
   {
     "path": "DynamicIsland/components/Notch/NotchTimerView.swift",

@@ -335,7 +335,7 @@ struct NotchStatsView: View {
         UnifiedStatsCard(graphData: graphData)
     }
 
-    var body: some View {
+    private var statsContent: some View {
         VStack(spacing: 0) {
             if !enableStatsFeature {
                 // Disabled state
@@ -388,6 +388,12 @@ struct NotchStatsView: View {
             }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+
+    // Keep each expression small enough for the supported Xcode compilers.
+    // These helpers add no containers and preserve modifier order and animations.
+    private var statsLifecycleContent: some View {
+        statsContent
         .onAppear {
             battery.setVisible(enableStatsFeature && vm.notchState == .open, token: batteryViewerToken)
             // Note: Smart monitoring will handle starting/stopping based on notch state and current view
@@ -406,6 +412,10 @@ struct NotchStatsView: View {
             battery.setVisible(enabled && vm.notchState == .open, token: batteryViewerToken)
         }
         .animation(.easeInOut(duration: 0.4), value: availableGraphs.count)
+    }
+
+    private var statsPopoverContent: some View {
+        statsLifecycleContent
         .onChange(of: showingCPUPopover) { _, newValue in
             updateStatsPopoverState()
         }
@@ -424,6 +434,10 @@ struct NotchStatsView: View {
         .onChange(of: showingBatteryPopover) { _, _ in
             updateStatsPopoverState()
         }
+    }
+
+    var body: some View {
+        statsPopoverContent
         .onChange(of: isHoveringCPUPopover) { _, _ in
             updateStatsPopoverState()
         }
